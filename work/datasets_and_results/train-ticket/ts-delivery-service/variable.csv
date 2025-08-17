@@ -1,0 +1,10 @@
+file,class,method,variable,usage
+/data/delivery/mq/RabbitReceive.java,delivery.mq.RabbitReceive,process/1[java.lang.String],delivery,5
+/data/delivery/mq/RabbitReceive.java,delivery.mq.RabbitReceive,process/1[java.lang.String],payload,1
+/data/delivery/mq/RabbitReceive.java,delivery.mq.RabbitReceive,process/1[java.lang.String],e,1
+/data/delivery/DeliveryApplication.java,delivery.DeliveryApplication,main/1[java.lang.String[]],args,1
+/data/delivery/DeliveryApplication.java,delivery.DeliveryApplication,restTemplate/1[delivery.RestTemplateBuilder],builder,1
+/data/delivery/repository/DeliveryRepository.java,delivery.repository.DeliveryRepository,deleteById/1[java.lang.String],id,0
+/data/delivery/repository/DeliveryRepository.java,delivery.repository.DeliveryRepository,deleteFoodOrderByOrderId/1[java.lang.String],id,0
+/data/delivery/repository/DeliveryRepository.java,delivery.repository.DeliveryRepository,findByOrderId/1[java.util.UUID],orderId,0
+/data/delivery/repository/DeliveryRepository.java,delivery.repository.DeliveryRepository,findById/1[java.lang.String],id,0

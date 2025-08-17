@@ -1,0 +1,12 @@
+file,class,method,variable,usage
+/data/cancel/controller/CancelController.java,cancel.controller.CancelController,"calculate/2[java.lang.String,cancel.controller.HttpHeaders]",cancelService,1
+/data/cancel/controller/CancelController.java,cancel.controller.CancelController,"cancelTicket/3[java.lang.String,java.lang.String,cancel.controller.HttpHeaders]",cancelService,1
+/data/cancel/service/CancelServiceImpl.java,cancel.service.CancelServiceImpl,"cancelFromOrder/2[cancel.service.Order,cancel.service.HttpHeaders]",restTemplate,1
+/data/cancel/service/CancelServiceImpl.java,cancel.service.CancelServiceImpl,"getOrderByIdFromOrderOther/2[java.lang.String,cancel.service.HttpHeaders]",restTemplate,1
+/data/cancel/service/CancelServiceImpl.java,cancel.service.CancelServiceImpl,"sendEmail/2[cancel.service.NotifyInfo,cancel.service.HttpHeaders]",restTemplate,1
+/data/cancel/service/CancelServiceImpl.java,cancel.service.CancelServiceImpl,"drawbackMoney/3[java.lang.String,java.lang.String,cancel.service.HttpHeaders]",restTemplate,1
+/data/cancel/service/CancelServiceImpl.java,cancel.service.CancelServiceImpl,"getOrderByIdFromOrder/2[java.lang.String,cancel.service.HttpHeaders]",restTemplate,1
+/data/cancel/service/CancelServiceImpl.java,cancel.service.CancelServiceImpl,"calculateRefund/2[java.lang.String,cancel.service.HttpHeaders]",orderStatusCancelNotPermitted,1
+/data/cancel/service/CancelServiceImpl.java,cancel.service.CancelServiceImpl,"getAccount/2[java.lang.String,cancel.service.HttpHeaders]",restTemplate,1
+/data/cancel/service/CancelServiceImpl.java,cancel.service.CancelServiceImpl,"cancelOrder/3[java.lang.String,java.lang.String,cancel.service.HttpHeaders]",orderStatusCancelNotPermitted,2
+/data/cancel/service/CancelServiceImpl.java,cancel.service.CancelServiceImpl,"cancelFromOtherOrder/2[cancel.service.Order,cancel.service.HttpHeaders]",restTemplate,1

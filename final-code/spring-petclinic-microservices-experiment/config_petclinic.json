@@ -1,0 +1,40 @@
+{
+  "project": "spring_petclinic",
+  "repo_path": "../spring-petclinic-microservices",
+  "data_path": "data",
+  "metrics_path": "metrics",
+  "embeddings_path": "embeddings",
+  "models_path": "models",
+  "results_path": "results",
+  "services": [
+    "spring-petclinic-api-gateway",
+    "spring-petclinic-customers-service",
+    "spring-petclinic-vets-service",
+    "spring-petclinic-visits-service",
+    "spring-petclinic-admin-server",
+    "spring-petclinic-config-server",
+    "spring-petclinic-discovery-server"
+  ],
+  "ck_jar": "../ck/ck.jar",
+  "metric_cols": [
+    "cbo",
+    "wmc",
+    "dit",
+    "noc",
+    "rfc",
+    "lcom",
+    "loc",
+    "fanin",
+    "fanout",
+    "tcc",
+    "lcc"
+  ],
+  "crudy_annotations": [
+    "@GetMapping",
+    "@PostMapping",
+    "@PutMapping",
+    "@DeleteMapping"
+  ],
+  "mega_loc_threshold": 500,
+  "mega_classes_threshold": 10
+}

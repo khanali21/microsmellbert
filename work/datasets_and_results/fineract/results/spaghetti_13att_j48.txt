@@ -1,0 +1,65 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.J48 -C 0.25 -M 2
+Relation:     code_smells_extended
+Instances:    4059
+Attributes:   16
+              loc
+              wmc
+              cbo
+              lcom
+              rfc
+              noc
+              totalmethodsqty
+              totalfieldsqty
+              is_functional_decomposition
+              is_data_class
+              is_lazy_class
+              is_spaghetti
+              is_swiss_army_knife
+              is_blob
+              has_long_method
+              has_long_parameter_list
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+J48 pruned tree
+------------------
+
+is_blob = yes
+|   totalmethodsqty <= 22: no (2.0)
+|   totalmethodsqty > 22: yes (17.0)
+is_blob = no: no (4040.0)
+
+Number of Leaves  : 	3
+
+Size of the tree : 	5
+
+
+Time taken to build model: 0.01 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances        4057               99.9507 %
+Incorrectly Classified Instances         2                0.0493 %
+Kappa statistic                          0.9442
+Mean absolute error                      0.0005
+Root mean squared error                  0.0209
+Relative absolute error                  6.08   %
+Root relative squared error             32.365  %
+Total Number of Instances             4059     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 1.000    0.000    0.895      1.000    0.944      0.946    1.000     0.975     yes
+                 1.000    0.000    1.000      1.000    1.000      0.946    1.000     1.000     no
+Weighted Avg.    1.000    0.000    1.000      1.000    1.000      0.946    1.000     1.000     
+
+=== Confusion Matrix ===
+
+    a    b   <-- classified as
+   17    0 |    a = yes
+    2 4040 |    b = no

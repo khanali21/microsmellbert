@@ -1,0 +1,11 @@
+file,class,method,variable,usage
+/data/execute/controller/ExecuteControlller.java,execute.controller.ExecuteControlller,"executeTicket/2[java.lang.String,execute.controller.HttpHeaders]",executeService,1
+/data/execute/controller/ExecuteControlller.java,execute.controller.ExecuteControlller,"collectTicket/2[java.lang.String,execute.controller.HttpHeaders]",executeService,1
+/data/execute/serivce/ExecuteServiceImpl.java,execute.serivce.ExecuteServiceImpl,"executeOrderOther/3[java.lang.String,int,execute.serivce.HttpHeaders]",restTemplate,1
+/data/execute/serivce/ExecuteServiceImpl.java,execute.serivce.ExecuteServiceImpl,"executeOrder/3[java.lang.String,int,execute.serivce.HttpHeaders]",restTemplate,1
+/data/execute/serivce/ExecuteServiceImpl.java,execute.serivce.ExecuteServiceImpl,"getOrderByIdFromOrder/2[java.lang.String,execute.serivce.HttpHeaders]",restTemplate,1
+/data/execute/serivce/ExecuteServiceImpl.java,execute.serivce.ExecuteServiceImpl,"getOrderByIdFromOrderOther/2[java.lang.String,execute.serivce.HttpHeaders]",restTemplate,1
+/data/execute/serivce/ExecuteServiceImpl.java,execute.serivce.ExecuteServiceImpl,"ticketExecute/2[java.lang.String,execute.serivce.HttpHeaders]",orderStatusWrong,4
+/data/execute/serivce/ExecuteServiceImpl.java,execute.serivce.ExecuteServiceImpl,"ticketExecute/2[java.lang.String,execute.serivce.HttpHeaders]",LOGGER,5
+/data/execute/serivce/ExecuteServiceImpl.java,execute.serivce.ExecuteServiceImpl,"ticketCollect/2[java.lang.String,execute.serivce.HttpHeaders]",orderStatusWrong,4
+/data/execute/serivce/ExecuteServiceImpl.java,execute.serivce.ExecuteServiceImpl,"ticketCollect/2[java.lang.String,execute.serivce.HttpHeaders]",LOGGER,5

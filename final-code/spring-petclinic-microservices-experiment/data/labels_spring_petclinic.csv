@@ -1,0 +1,8 @@
+Service,Mega-Service,CRUDy-Service,Ambiguous-Service
+spring-petclinic-api-gateway,0,0,0
+spring-petclinic-customers-service,1,0,0
+spring-petclinic-vets-service,0,0,0
+spring-petclinic-visits-service,0,0,0
+spring-petclinic-admin-server,0,0,0
+spring-petclinic-config-server,0,0,0
+spring-petclinic-discovery-server,0,0,0

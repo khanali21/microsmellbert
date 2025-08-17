@@ -1,0 +1,2 @@
+file,class,method,variable,usage
+/Users/alikhan/git/nui-mcs/Capstone Project/work/microsmellbert/spring-petclinic-microservices-experiment/../spring-petclinic-microservices/spring-petclinic-config-server/src/main/java/org/springframework/samples/petclinic/config/ConfigServerApplication.java,org.springframework.samples.petclinic.config.ConfigServerApplication,main/1[java.lang.String[]],args,1

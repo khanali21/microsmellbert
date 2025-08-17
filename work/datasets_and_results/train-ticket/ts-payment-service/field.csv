@@ -1,0 +1,13 @@
+file,class,method,variable,usage
+/data/com/trainticket/service/PaymentServiceImpl.java,com.trainticket.service.PaymentServiceImpl,"initPayment/2[com.trainticket.entity.Payment,com.trainticket.service.HttpHeaders]",paymentRepository,2
+/data/com/trainticket/service/PaymentServiceImpl.java,com.trainticket.service.PaymentServiceImpl,"addMoney/2[com.trainticket.entity.Payment,com.trainticket.service.HttpHeaders]",addMoneyRepository,1
+/data/com/trainticket/service/PaymentServiceImpl.java,com.trainticket.service.PaymentServiceImpl,"pay/2[com.trainticket.entity.Payment,com.trainticket.service.HttpHeaders]",paymentRepository,2
+/data/com/trainticket/service/PaymentServiceImpl.java,com.trainticket.service.PaymentServiceImpl,query/1[com.trainticket.service.HttpHeaders],paymentRepository,1
+/data/com/trainticket/init/InitData.java,com.trainticket.init.InitData,run/1[java.lang.String[]],service,1
+/data/com/trainticket/entity/Payment.java,com.trainticket.entity.Payment,Payment/0,orderId,1
+/data/com/trainticket/entity/Payment.java,com.trainticket.entity.Payment,Payment/0,price,1
+/data/com/trainticket/entity/Payment.java,com.trainticket.entity.Payment,Payment/0,id,1
+/data/com/trainticket/entity/Payment.java,com.trainticket.entity.Payment,Payment/0,userId,1
+/data/com/trainticket/controller/PaymentController.java,com.trainticket.controller.PaymentController,"pay/2[com.trainticket.entity.Payment,com.trainticket.controller.HttpHeaders]",service,1
+/data/com/trainticket/controller/PaymentController.java,com.trainticket.controller.PaymentController,query/1[com.trainticket.controller.HttpHeaders],service,1
+/data/com/trainticket/controller/PaymentController.java,com.trainticket.controller.PaymentController,"addMoney/2[com.trainticket.entity.Payment,com.trainticket.controller.HttpHeaders]",service,1

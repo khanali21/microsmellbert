@@ -1,0 +1,4 @@
+file,class,method,variable,usage
+/data/delivery/mq/RabbitReceive.java,delivery.mq.RabbitReceive,process/1[java.lang.String],logger,4
+/data/delivery/mq/RabbitReceive.java,delivery.mq.RabbitReceive,process/1[java.lang.String],deliveryRepository,1
+/data/delivery/config/Queues.java,delivery.config.Queues,emailQueue/0,queueName,1

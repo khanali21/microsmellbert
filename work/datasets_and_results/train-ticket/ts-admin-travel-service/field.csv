@@ -1,0 +1,16 @@
+file,class,method,variable,usage
+/data/admintravel/service/AdminTravelServiceImpl.java,admintravel.service.AdminTravelServiceImpl,"updateTravel/2[admintravel.service.TravelInfo,admintravel.service.HttpHeaders]",restTemplate,1
+/data/admintravel/service/AdminTravelServiceImpl.java,admintravel.service.AdminTravelServiceImpl,"getRouteByRouteId/2[java.lang.String,admintravel.service.HttpHeaders]",restTemplate,1
+/data/admintravel/service/AdminTravelServiceImpl.java,admintravel.service.AdminTravelServiceImpl,"addTravel/2[admintravel.service.TravelInfo,admintravel.service.HttpHeaders]",restTemplate,1
+/data/admintravel/service/AdminTravelServiceImpl.java,admintravel.service.AdminTravelServiceImpl,"deleteTravel/2[java.lang.String,admintravel.service.HttpHeaders]",restTemplate,1
+/data/admintravel/service/AdminTravelServiceImpl.java,admintravel.service.AdminTravelServiceImpl,getAllTravels/1[admintravel.service.HttpHeaders],restTemplate,2
+/data/admintravel/service/AdminTravelServiceImpl.java,admintravel.service.AdminTravelServiceImpl,"checkStationsExists/2[java.util.List<java.lang.String>,admintravel.service.HttpHeaders]",restTemplate,1
+/data/admintravel/service/AdminTravelServiceImpl.java,admintravel.service.AdminTravelServiceImpl,"queryTrainTypeByName/2[java.lang.String,admintravel.service.HttpHeaders]",restTemplate,1
+/data/admintravel/controller/AdminTravelController.java,admintravel.controller.AdminTravelController,getAllTravels/1[admintravel.controller.HttpHeaders],adminTravelService,1
+/data/admintravel/controller/AdminTravelController.java,admintravel.controller.AdminTravelController,getAllTravels/1[admintravel.controller.HttpHeaders],logger,1
+/data/admintravel/controller/AdminTravelController.java,admintravel.controller.AdminTravelController,"deleteTravel/2[java.lang.String,admintravel.controller.HttpHeaders]",adminTravelService,1
+/data/admintravel/controller/AdminTravelController.java,admintravel.controller.AdminTravelController,"deleteTravel/2[java.lang.String,admintravel.controller.HttpHeaders]",logger,1
+/data/admintravel/controller/AdminTravelController.java,admintravel.controller.AdminTravelController,"addTravel/2[admintravel.controller.TravelInfo,admintravel.controller.HttpHeaders]",adminTravelService,1
+/data/admintravel/controller/AdminTravelController.java,admintravel.controller.AdminTravelController,"addTravel/2[admintravel.controller.TravelInfo,admintravel.controller.HttpHeaders]",logger,1
+/data/admintravel/controller/AdminTravelController.java,admintravel.controller.AdminTravelController,"updateTravel/2[admintravel.controller.TravelInfo,admintravel.controller.HttpHeaders]",adminTravelService,1
+/data/admintravel/controller/AdminTravelController.java,admintravel.controller.AdminTravelController,"updateTravel/2[admintravel.controller.TravelInfo,admintravel.controller.HttpHeaders]",logger,1

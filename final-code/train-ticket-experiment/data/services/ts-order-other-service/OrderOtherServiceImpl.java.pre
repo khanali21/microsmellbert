@@ -1,0 +1,475 @@
+VAR VAR.VAR;
+
+VAR VAR.VAR.VAR.VAR.*;
+VAR VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR;
+VAR VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.*;
+VAR VAR.VAR.VAR;
+VAR VAR.VAR.VAR;
+VAR VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR;
+
+VAR VAR.VAR.*;
+
+
+@VAR
+VAR VAR VAR VAR VAR {
+
+    @VAR
+    VAR VAR VAR;
+
+    @VAR
+    VAR VAR VAR;
+
+    VAR VAR VAR VAR VAR = VAR.VAR(VAR.VAR);
+
+    @VAR
+    VAR VAR VAR;
+
+    VAR VAR VAR(VAR VAR) {
+        VAR "VAR:
+    }
+
+
+
+
+    VAR VAR = "VAR";
+    VAR VAR = "VAR VAR VAR";
+
+    @VAR
+    VAR VAR VAR(VAR VAR, VAR VAR) {
+        VAR<VAR> VAR = VAR.VAR(VAR.VAR(),
+                VAR.VAR());
+        VAR (VAR != VAR && !VAR.VAR()) {
+            VAR VAR = VAR VAR();
+            VAR (VAR VAR : VAR) {
+                VAR VAR = VAR VAR();
+                VAR.VAR(VAR.VAR(VAR.VAR()));
+                VAR.VAR(VAR.VAR());
+                VAR.VAR(VAR.VAR());
+                VAR.VAR(VAR);
+            }
+
+            VAR VAR = VAR VAR();
+            VAR.VAR(VAR);
+            VAR.VAR.VAR("[VAR][VAR VAR VAR][VAR VAR: {}]", VAR.VAR());
+
+            VAR VAR VAR<>(1, VAR, VAR);
+        } VAR {
+
+            VAR.VAR.VAR("[VAR][VAR][VAR VAR][VAR VAR VAR: {}, VAR VAR: {}",VAR.VAR(),VAR.VAR());
+            VAR VAR VAR<>(0, "VAR VAR VAR.", VAR);
+        }
+    }
+
+    @VAR
+    VAR VAR VAR(VAR VAR, VAR VAR) {
+        VAR<VAR> VAR = VAR.VAR(VAR);
+        VAR (!VAR.VAR()) {
+            VAR.VAR.VAR("[VAR][VAR VAR VAR VAR VAR][VAR VAR][VAR: {}]",VAR);
+            VAR VAR VAR<>(0, "VAR VAR VAR VAR VAR", VAR);
+        } VAR {
+            VAR VAR = VAR.VAR();
+            VAR.VAR.VAR("[VAR][VAR VAR VAR VAR VAR][VAR: {}]",VAR);
+            VAR VAR VAR<>(1, VAR, VAR);
+        }
+    }
+
+    @VAR
+    VAR VAR VAR(VAR VAR, VAR VAR) {
+        VAR.VAR.VAR("[VAR][VAR VAR][VAR VAR VAR]");
+        VAR<VAR> VAR = VAR.VAR(VAR.VAR());
+        VAR (VAR.VAR(VAR)) {
+            VAR.VAR.VAR("[VAR][VAR VAR VAR][VAR VAR VAR][VAR: {}]", VAR.VAR());
+            VAR VAR VAR<>(0, "VAR VAR VAR", VAR);
+        } VAR {
+            VAR.VAR(VAR.VAR().VAR());
+            VAR=VAR.VAR(VAR);
+            VAR.VAR.VAR("[VAR][VAR VAR VAR][VAR:{},VAR: {}]",VAR.VAR(),VAR.VAR());
+            VAR VAR VAR<>(1, VAR, VAR);
+        }
+    }
+
+    @VAR
+    VAR VAR VAR(VAR VAR, VAR VAR) {
+        VAR<VAR> VAR = VAR.VAR(VAR.VAR());
+        VAR (!VAR.VAR()) {
+            VAR.VAR(VAR);
+            VAR.VAR.VAR("[VAR][VAR VAR VAR][VAR: {}]", VAR.VAR());
+        } VAR {
+            VAR VAR = VAR.VAR();
+            VAR.VAR.VAR("[VAR][VAR VAR VAR][VAR VAR VAR][VAR: {}]", VAR.VAR());
+        }
+    }
+
+
+    @VAR
+    VAR VAR VAR(VAR VAR, VAR VAR) {
+
+        VAR VAR = VAR.VAR();
+
+        VAR (!VAR.VAR(VAR).VAR()) {
+            VAR.VAR.VAR("[VAR][VAR VAR VAR][VAR VAR VAR VAR][VAR: {}]", VAR);
+            VAR VAR VAR<>(0, "VAR VAR VAR VAR VAR", VAR);
+        }
+        VAR VAR = VAR.VAR(VAR).VAR();
+        VAR.VAR(VAR.VAR.VAR());
+        VAR(VAR, VAR);
+        VAR VAR = VAR.VAR();
+        VAR.VAR(VAR.VAR().VAR());
+        VAR VAR = VAR(VAR.VAR(), VAR);
+        VAR (VAR.VAR() == 1) {
+            VAR.VAR.VAR("[VAR][VAR VAR VAR][VAR:{}]",VAR.VAR());
+            VAR VAR VAR<>(1, "VAR VAR VAR", VAR);
+        } VAR {
+            VAR.VAR.VAR("[VAR][VAR VAR VAR][VAR VAR VAR VAR][VAR: {}]", VAR.VAR());
+            VAR VAR VAR<>(0, VAR.VAR(), VAR);
+        }
+    }
+
+    @VAR
+    VAR VAR<VAR<VAR>> VAR(VAR VAR, VAR VAR, VAR VAR) {
+        
+        VAR<VAR> VAR = VAR.VAR(VAR);
+        VAR.VAR.VAR("[VAR][VAR 1][VAR VAR VAR VAR VAR][VAR: {}]", VAR.VAR());
+        
+        VAR (VAR.VAR() || VAR.VAR() || VAR.VAR()) {
+            VAR<VAR> VAR = VAR VAR<>();
+            VAR (VAR VAR : VAR) {
+                VAR VAR = VAR;
+                VAR VAR = VAR;
+                VAR VAR = VAR;
+                
+                VAR (VAR.VAR()) {
+                    VAR (VAR.VAR() != VAR.VAR()) {
+                        VAR = VAR;
+                    } VAR {
+                        VAR = VAR;
+                    }
+                } VAR {
+                    VAR = VAR;
+                }
+                VAR.VAR.VAR("[VAR][VAR 2][VAR VAR VAR VAR]");
+                
+                VAR VAR = VAR.VAR(VAR.VAR());
+                VAR VAR = VAR.VAR(VAR.VAR());
+                VAR VAR = VAR.VAR(VAR.VAR());
+                VAR VAR = VAR.VAR(VAR.VAR());
+                VAR VAR = VAR.VAR(VAR.VAR());
+                VAR (VAR.VAR()) {
+                    VAR (VAR.VAR(VAR) &&
+                            VAR.VAR(VAR)) {
+                        VAR = VAR;
+                    } VAR {
+                        VAR = VAR;
+                    }
+                } VAR {
+                    VAR = VAR;
+                }
+                VAR.VAR.VAR("[VAR][VAR 2][VAR VAR VAR VAR]");
+                
+                VAR (VAR.VAR()) {
+                    VAR (VAR.VAR(VAR) &&
+                            VAR.VAR(VAR)) {
+                        VAR = VAR;
+                    } VAR {
+                        VAR = VAR;
+                    }
+                } VAR {
+                    VAR = VAR;
+                }
+                VAR.VAR.VAR("[VAR][VAR 2][VAR VAR VAR VAR]");
+                
+                VAR (VAR && VAR && VAR) {
+                    VAR.VAR(VAR);
+                }
+                VAR.VAR.VAR("[VAR][VAR 2][VAR VAR VAR VAR]");
+            }
+            VAR.VAR.VAR("[VAR][VAR VAR VAR][VAR:{}]", VAR.VAR());
+            VAR VAR VAR<>(1, "VAR VAR VAR", VAR);
+        } VAR {
+            VAR.VAR.VAR("[VAR][VAR VAR'VAR VAR VAR VAR][VAR: {}]", VAR.VAR());
+            VAR VAR VAR<>(1, "VAR VAR VAR", VAR);
+        }
+    }
+
+    @VAR
+    VAR VAR VAR(VAR VAR, VAR VAR, VAR VAR) {
+        VAR<VAR> VAR = VAR(VAR, VAR, VAR).VAR();
+        VAR<VAR> VAR = VAR VAR<>();
+        VAR (VAR VAR : VAR) {
+            VAR.VAR(VAR.VAR());
+            VAR.VAR(VAR.VAR());
+        }
+        VAR (VAR VAR = 0; VAR < VAR.VAR(); VAR++) {
+            VAR.VAR(VAR).VAR(VAR.VAR(VAR * 2));
+            VAR.VAR(VAR).VAR(VAR.VAR(VAR * 2 + 1));
+        }
+        VAR VAR VAR<>(1, VAR, VAR);
+    }
+
+    VAR VAR<VAR> VAR(VAR<VAR> VAR, VAR VAR) {
+
+        VAR VAR = VAR VAR(VAR, VAR);
+        VAR VAR=VAR("VAR-VAR-VAR");
+        VAR<VAR<VAR<VAR>>> VAR = VAR.VAR(
+                VAR + "/VAR/VAR/VAR/VAR/VAR",
+                VAR.VAR,
+                VAR,
+                VAR VAR<VAR<VAR<VAR>>>() {
+                });
+        VAR.VAR.VAR("[VAR][VAR VAR VAR][VAR VAR VAR : {}]", VAR.VAR().VAR());
+        VAR VAR.VAR().VAR();
+    }
+
+    @VAR
+    VAR VAR VAR(VAR VAR, VAR VAR) {
+        VAR<VAR> VAR = VAR.VAR(VAR.VAR());
+        VAR (!VAR.VAR() ) {
+            VAR.VAR.VAR("[VAR][VAR VAR VAR][VAR VAR VAR][VAR: {}]", VAR.VAR());
+            VAR VAR VAR<>(0, VAR, VAR);
+        } VAR {
+            VAR VAR = VAR.VAR();
+            VAR.VAR(VAR.VAR());
+            VAR.VAR(VAR.VAR());
+            VAR.VAR(VAR.VAR());
+            VAR.VAR(VAR.VAR());
+            VAR.VAR(VAR.VAR());
+            VAR.VAR(VAR.VAR());
+
+            VAR.VAR(VAR.VAR());
+            VAR.VAR(VAR.VAR());
+            VAR.VAR(VAR.VAR());
+            VAR.VAR(VAR.VAR());
+            VAR.VAR(VAR.VAR());
+            VAR.VAR(VAR.VAR());
+            VAR.VAR(VAR.VAR());
+            VAR.VAR(VAR.VAR());
+            VAR.VAR(VAR.VAR());
+
+            VAR.VAR(VAR);
+            VAR.VAR.VAR("[VAR][VAR VAR VAR][VAR: {}]",VAR.VAR());
+            VAR VAR VAR<>(1, VAR, VAR);
+        }
+    }
+
+    @VAR
+    VAR VAR VAR(VAR VAR, VAR VAR, VAR VAR) {
+
+        VAR<VAR> VAR = VAR.VAR(VAR);
+        VAR (!VAR.VAR()) {
+            VAR.VAR.VAR("[VAR][VAR VAR VAR][VAR VAR VAR][VAR: {}]", VAR);
+            VAR VAR VAR<>(0, VAR, VAR);
+        } VAR {
+            VAR VAR = VAR.VAR();
+            VAR.VAR(VAR.VAR.VAR());
+            VAR.VAR(VAR);
+            VAR.VAR.VAR("[VAR][VAR VAR VAR][VAR: {}]",VAR.VAR());
+            VAR VAR VAR<>(1, VAR, VAR);
+        }
+    }
+
+    @VAR
+    VAR VAR VAR(VAR VAR, VAR VAR, VAR VAR) {
+        VAR<VAR> VAR = VAR.VAR(VAR.VAR(VAR), VAR);
+        VAR VAR = VAR VAR();
+        VAR.VAR(VAR);
+        VAR.VAR(VAR);
+        VAR.VAR.VAR("[VAR][VAR VAR VAR][VAR VAR VAR: {}]", VAR.VAR());
+        VAR (VAR VAR : VAR) {
+            VAR (VAR.VAR() >= VAR.VAR.VAR()) {
+                VAR;
+            }
+            VAR (VAR.VAR() == VAR.VAR.VAR()) {
+                VAR.VAR(VAR.VAR() + 1);
+            } VAR VAR (VAR.VAR() == VAR.VAR.VAR()) {
+                VAR.VAR(VAR.VAR() + 1);
+            } VAR VAR (VAR.VAR() == VAR.VAR.VAR()) {
+                VAR.VAR(VAR.VAR() + 1);
+            } VAR VAR (VAR.VAR() == VAR.VAR.VAR()) {
+                VAR.VAR(VAR.VAR() + 1);
+            } VAR VAR (VAR.VAR() == VAR.VAR.VAR()) {
+                VAR.VAR(VAR.VAR() + 1);
+            } VAR VAR (VAR.VAR() == VAR.VAR.VAR()) {
+                VAR.VAR(VAR.VAR() + 1);
+            } VAR VAR (VAR.VAR() == VAR.VAR.VAR()) {
+                VAR.VAR(VAR.VAR() + 1);
+            } VAR VAR (VAR.VAR() == VAR.VAR.VAR()) {
+                VAR.VAR(VAR.VAR() + 1);
+            } VAR VAR (VAR.VAR() == VAR.VAR.VAR()) {
+                VAR.VAR(VAR.VAR() + 1);
+            } VAR {
+                VAR.VAR.VAR("[VAR][VAR VAR VAR][VAR VAR VAR VAR][VAR VAR: {}]", VAR.VAR());
+            }
+        }
+        VAR VAR VAR<>(1, VAR, VAR);
+    }
+
+    @VAR
+    VAR VAR VAR(VAR VAR) {
+        VAR<VAR> VAR = VAR.VAR();
+        VAR (VAR == VAR) {
+            VAR.VAR.VAR("[VAR][VAR VAR VAR VAR][{}]","VAR VAR");
+            VAR VAR VAR<>(0, "VAR VAR", VAR);
+        } VAR {
+            VAR.VAR.VAR("[VAR][VAR VAR VAR VAR][VAR:{}]",VAR.VAR());
+            VAR VAR VAR<>(1, VAR, VAR);
+        }
+    }
+
+    @VAR
+    VAR VAR VAR(VAR VAR, VAR VAR, VAR VAR) {
+        VAR<VAR> VAR = VAR.VAR(VAR);
+        VAR (!VAR.VAR()) {
+            VAR.VAR.VAR("[VAR][VAR VAR VAR][VAR VAR VAR][VAR: {}]",VAR);
+            VAR VAR VAR<>(0, VAR, VAR);
+        } VAR {
+            VAR VAR = VAR.VAR();
+            VAR.VAR(VAR);
+            VAR.VAR(VAR);
+            VAR.VAR.VAR("[VAR][VAR VAR VAR][VAR: {}]",VAR);
+            VAR VAR VAR<>(1, VAR, VAR);
+        }
+    }
+
+    @VAR
+    VAR VAR VAR(VAR VAR, VAR VAR) {
+        VAR<VAR> VAR = VAR.VAR(VAR);
+        VAR (!VAR.VAR()) {
+            VAR.VAR.VAR("[VAR][VAR VAR VAR VAR][VAR VAR VAR][VAR: {}]",VAR);
+            VAR VAR VAR<>(0, VAR, "-1.0");
+        } VAR {
+            VAR VAR = VAR.VAR();
+            VAR.VAR.VAR("[VAR][VAR VAR VAR VAR][VAR:{} , VAR: {}]", VAR,VAR.VAR());
+            VAR VAR VAR<>(1, VAR, VAR.VAR());
+        }
+    }
+
+    @VAR
+    VAR VAR VAR(VAR VAR, VAR VAR) {
+        VAR<VAR> VAR = VAR.VAR(VAR);
+        VAR (!VAR.VAR()) {
+            VAR.VAR.VAR("[VAR][VAR VAR VAR][VAR VAR VAR][VAR: {}]",VAR);
+            VAR VAR VAR<>(0, VAR, VAR);
+        } VAR {
+            VAR VAR = VAR.VAR();
+            VAR.VAR(VAR.VAR.VAR());
+            VAR.VAR(VAR);
+            VAR.VAR.VAR("[VAR][VAR VAR VAR][VAR: {}]",VAR);
+            VAR VAR VAR<>(1, VAR, VAR);
+        }
+    }
+
+    @VAR
+    VAR VAR VAR(VAR VAR, VAR VAR) {
+        VAR<VAR> VAR = VAR.VAR(VAR);
+
+        VAR(!VAR.VAR()) {
+            VAR.VAR.VAR("[VAR][VAR VAR VAR VAR VAR][VAR VAR VAR][VAR: {}]",VAR);
+            VAR VAR VAR<>(0, VAR, VAR);
+        } VAR {
+            VAR VAR = VAR.VAR();
+            VAR.VAR.VAR("[VAR][VAR VAR VAR VAR VAR][VAR: {}]",VAR);
+            VAR VAR VAR<>(1, VAR, VAR);
+        }
+    }
+
+    @VAR
+    VAR VAR VAR(VAR VAR, VAR VAR, VAR VAR) {
+        VAR VAR = VAR VAR();
+        VAR<VAR> VAR = VAR.VAR(VAR);
+        VAR VAR = 0;
+        VAR VAR = 0;
+        VAR VAR = VAR.VAR();
+        VAR.VAR(VAR);
+        VAR.VAR(VAR.VAR, -1);
+        VAR = VAR.VAR();
+        VAR (VAR VAR : VAR) {
+            VAR (VAR.VAR() == VAR.VAR.VAR() ||
+                    VAR.VAR() == VAR.VAR.VAR() ||
+                    VAR.VAR() == VAR.VAR.VAR()) {
+                VAR += 1;
+            }
+            VAR VAR = VAR.VAR(VAR.VAR());
+            VAR (VAR.VAR(VAR)) {
+                VAR += 1;
+            }
+        }
+        VAR.VAR(VAR);
+        VAR.VAR(VAR);
+        VAR VAR VAR<>(1, VAR, VAR);
+    }
+
+    @VAR
+    VAR VAR VAR(VAR VAR, VAR VAR) {
+        VAR VAR = VAR.VAR(VAR).VAR();
+        VAR<VAR> VAR = VAR.VAR(VAR);
+        VAR(!VAR.VAR()) {
+            VAR.VAR.VAR("[VAR][VAR VAR VAR][VAR VAR VAR][VAR: {}]",VAR);
+            VAR VAR VAR<>(0, "VAR VAR VAR.", VAR);
+        } VAR {
+            VAR VAR = VAR.VAR();
+            VAR.VAR(VAR);
+            VAR.VAR.VAR("[VAR][VAR VAR VAR][VAR: {}]",VAR);
+            VAR VAR VAR<>(1, VAR, VAR);
+        }
+    }
+
+    @VAR
+    VAR VAR VAR(VAR VAR, VAR VAR) {
+        VAR.VAR.VAR("[VAR][VAR VAR VAR][VAR VAR VAR VAR]");
+        VAR<VAR> VAR = VAR.VAR(VAR.VAR());
+        VAR (VAR.VAR(VAR)) {
+            VAR.VAR.VAR("[VAR][VAR VAR VAR VAR][VAR VAR VAR][VAR: {}]",VAR.VAR());
+            VAR VAR VAR<>(0, "VAR VAR VAR", VAR);
+        } VAR {
+            VAR.VAR(VAR.VAR().VAR());
+            VAR.VAR(VAR);
+            VAR.VAR.VAR("[VAR][VAR VAR VAR VAR][VAR:{} , VAR:{}]",VAR.VAR(),VAR.VAR());
+            VAR VAR VAR<>(1, VAR, VAR);
+        }
+    }
+
+    @VAR
+    VAR VAR VAR(VAR VAR, VAR VAR) {
+        VAR.VAR("[VAR][VAR VAR VAR][VAR VAR:{}]",VAR.VAR());
+
+        VAR<VAR> VAR = VAR.VAR(VAR.VAR());
+        VAR(!VAR.VAR()) {
+            VAR.VAR.VAR("[VAR][VAR VAR VAR VAR][VAR VAR VAR][VAR: {}]",VAR.VAR());
+            VAR VAR VAR<>(0, VAR, VAR);
+        } VAR {
+            VAR VAR = VAR.VAR();
+            
+            VAR.VAR(VAR.VAR());
+            VAR.VAR(VAR.VAR());
+            VAR.VAR(VAR.VAR());
+            VAR.VAR(VAR.VAR());
+            VAR.VAR(VAR.VAR());
+            VAR.VAR(VAR.VAR());
+            VAR.VAR(VAR.VAR());
+            VAR.VAR(VAR.VAR());
+            VAR.VAR(VAR.VAR());
+            VAR.VAR(VAR.VAR());
+            VAR.VAR(VAR.VAR());
+            VAR.VAR(VAR.VAR());
+            VAR.VAR(VAR.VAR());
+            VAR.VAR(VAR.VAR());
+            VAR.VAR(VAR.VAR());
+            VAR.VAR(VAR);
+            VAR.VAR.VAR("[VAR][VAR VAR VAR VAR][VAR:{}]",VAR.VAR());
+            VAR VAR VAR<>(1, VAR, VAR);
+        }
+    }
+}
+

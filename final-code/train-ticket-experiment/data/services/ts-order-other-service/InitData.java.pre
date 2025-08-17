@@ -1,0 +1,45 @@
+VAR VAR.VAR;
+
+VAR VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR;
+
+VAR VAR.VAR.VAR;
+VAR VAR.VAR.VAR;
+
+
+@VAR
+VAR VAR VAR VAR VAR {
+    @VAR
+    VAR VAR;
+
+    @VAR
+    VAR VAR VAR(VAR... VAR)VAR VAR{
+
+        VAR VAR = VAR VAR();
+
+        VAR.VAR("4d2a46c7-71cb-4cf1-VAR-VAR");
+        VAR.VAR(5);
+        VAR.VAR("VAR");
+        VAR.VAR("VAR");
+        VAR.VAR(1);
+        VAR.VAR("VAR");
+        VAR.VAR("4d2a46c7-71cb-4cf1-VAR-VAR");
+        VAR.VAR("100");
+        VAR.VAR(VAR.VAR.VAR());
+        VAR.VAR("6A");
+        VAR.VAR(VAR.VAR.VAR());
+        VAR.VAR("VAR");
+        VAR.VAR("VAR");
+        VAR.VAR("2022-10-01 00:00:00"); 
+        VAR.VAR("2022-10-01 00:00:00"); 
+        VAR.VAR(VAR,VAR);
+    }
+
+}

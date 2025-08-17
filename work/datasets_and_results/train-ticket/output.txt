@@ -1,0 +1,412 @@
+total 56
+-rw-r--r--@ 1 alikhan  staff      0 12 Aug 14:27 output.txt
+-rw-r--r--  1 alikhan  staff  26799  9 Aug 23:49 msa_nose.json
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:43 ts-admin-order-service
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:43 ts-travel-service
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:43 ts-travel2-service
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:43 ts-travel-plan-service
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:43 ts-execute-service
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:43 ts-seat-service
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:43 ts-delivery-service
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:43 Json2Shiviz
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:43 ms-monitoring-core
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:43 ts-ui-test
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:43 ts-inside-payment-service
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:43 ts-payment-service
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:43 ts-gateway-service
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:43 ts-route-plan-service
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:43 ts-user-service
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:43 ts-auth-service
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:43 ts-station-service
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:43 ts-common
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:43 ts-preserve-other-service
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:43 ts-basic-service
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:43 ts-wait-order-service
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:43 ts-consign-price-service
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:43 ts-food-delivery-service
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:43 ts-admin-basic-info-service
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:43 ts-train-food-service
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:43 ts-rebook-service
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:43 ts-station-food-service
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:43 ts-food-service
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:43 ts-verification-code-service
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:43 ts-order-service
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:43 ts-train-service
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:43 ts-consign-service
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:43 ts-security-service
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:43 ts-preserve-service
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:43 ts-price-service
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:43 ts-route-service
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:42 ts-order-other-service
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:42 ts-assurance-service
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:42 ts-config-service
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:42 ts-cancel-service
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:42 ts-notification-service
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:42 ts-admin-user-service
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 23:42 ts-contacts-service
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 15:41 ts-admin-travel-service
+drwxr-xr-x@ 7 alikhan  staff    224  3 Aug 15:39 ts-admin-route-service
+drwxr-xr-x@ 2 alikhan  staff     64  3 Aug 15:38 bin
+
+./ts-admin-order-service:
+total 64
+-rw-r--r--@ 1 alikhan  staff   878  3 Aug 23:43 ts-admin-order-service_smells.arff
+-rw-r--r--  1 alikhan  staff  2571  3 Aug 15:23 field.csv
+-rw-r--r--  1 alikhan  staff  9289  3 Aug 15:23 variable.csv
+-rw-r--r--  1 alikhan  staff  4754  3 Aug 15:23 method.csv
+-rw-r--r--  1 alikhan  staff  2328  3 Aug 15:23 class.csv
+
+./ts-travel-service:
+total 168
+-rw-r--r--@ 1 alikhan  staff   1218  3 Aug 23:43 ts-travel-service_smells.arff
+-rw-r--r--  1 alikhan  staff  12292  3 Aug 15:23 field.csv
+-rw-r--r--  1 alikhan  staff  41099  3 Aug 15:23 variable.csv
+-rw-r--r--  1 alikhan  staff  14364  3 Aug 15:23 method.csv
+-rw-r--r--  1 alikhan  staff   3722  3 Aug 15:23 class.csv
+
+./ts-travel2-service:
+total 152
+-rw-r--r--@ 1 alikhan  staff   1214  3 Aug 23:43 ts-travel2-service_smells.arff
+-rw-r--r--  1 alikhan  staff   9574  3 Aug 15:23 field.csv
+-rw-r--r--  1 alikhan  staff  37407  3 Aug 15:23 variable.csv
+-rw-r--r--  1 alikhan  staff  13153  3 Aug 15:23 method.csv
+-rw-r--r--  1 alikhan  staff   3759  3 Aug 15:23 class.csv
+
+./ts-travel-plan-service:
+total 96
+-rw-r--r--@ 1 alikhan  staff   1173  3 Aug 23:43 ts-travel-plan-service_smells.arff
+-rw-r--r--  1 alikhan  staff   5021  3 Aug 15:23 field.csv
+-rw-r--r--  1 alikhan  staff  24382  3 Aug 15:23 variable.csv
+-rw-r--r--  1 alikhan  staff   8026  3 Aug 15:23 method.csv
+-rw-r--r--  1 alikhan  staff   3847  3 Aug 15:23 class.csv
+
+./ts-execute-service:
+total 48
+-rw-r--r--@ 1 alikhan  staff   880  3 Aug 23:43 ts-execute-service_smells.arff
+-rw-r--r--  1 alikhan  staff  1694  3 Aug 15:23 field.csv
+-rw-r--r--  1 alikhan  staff  7283  3 Aug 15:23 variable.csv
+-rw-r--r--  1 alikhan  staff  4082  3 Aug 15:23 method.csv
+-rw-r--r--  1 alikhan  staff  2271  3 Aug 15:23 class.csv
+
+./ts-seat-service:
+total 56
+-rw-r--r--@ 1 alikhan  staff  1003  3 Aug 23:43 ts-seat-service_smells.arff
+-rw-r--r--  1 alikhan  staff   787  3 Aug 15:23 field.csv
+-rw-r--r--  1 alikhan  staff  9171  3 Aug 15:23 variable.csv
+-rw-r--r--  1 alikhan  staff  3400  3 Aug 15:23 method.csv
+-rw-r--r--  1 alikhan  staff  2778  3 Aug 15:23 class.csv
+
+./ts-delivery-service:
+total 40
+-rw-r--r--@ 1 alikhan  staff   749  3 Aug 23:43 ts-delivery-service_smells.arff
+-rw-r--r--  1 alikhan  staff   331  3 Aug 15:23 field.csv
+-rw-r--r--  1 alikhan  staff  1086  3 Aug 15:23 variable.csv
+-rw-r--r--  1 alikhan  staff  2180  3 Aug 15:23 method.csv
+-rw-r--r--  1 alikhan  staff  1571  3 Aug 15:23 class.csv
+
+./Json2Shiviz:
+total 200
+-rw-r--r--@ 1 alikhan  staff    940  3 Aug 23:43 Json2Shiviz_smells.arff
+-rw-r--r--  1 alikhan  staff   6059  3 Aug 15:23 field.csv
+-rw-r--r--  1 alikhan  staff  73514  3 Aug 15:23 variable.csv
+-rw-r--r--  1 alikhan  staff  10231  3 Aug 15:23 method.csv
+-rw-r--r--  1 alikhan  staff   2484  3 Aug 15:23 class.csv
+
+./ms-monitoring-core:
+total 1272
+-rw-r--r--@ 1 alikhan  staff    7243  3 Aug 23:43 ms-monitoring-core_smells.arff
+-rw-r--r--  1 alikhan  staff  161850  3 Aug 15:23 field.csv
+-rw-r--r--  1 alikhan  staff  255995  3 Aug 15:23 variable.csv
+-rw-r--r--  1 alikhan  staff  176090  3 Aug 15:23 method.csv
+-rw-r--r--  1 alikhan  staff   38275  3 Aug 15:23 class.csv
+
+./ts-ui-test:
+total 144
+-rw-r--r--@ 1 alikhan  staff   1606  3 Aug 23:43 ts-ui-test_smells.arff
+-rw-r--r--  1 alikhan  staff  15864  3 Aug 15:23 field.csv
+-rw-r--r--  1 alikhan  staff  23910  3 Aug 15:23 variable.csv
+-rw-r--r--  1 alikhan  staff  17647  3 Aug 15:23 method.csv
+-rw-r--r--  1 alikhan  staff   5159  3 Aug 15:23 class.csv
+
+./ts-inside-payment-service:
+total 144
+-rw-r--r--@ 1 alikhan  staff   1417  3 Aug 23:43 ts-inside-payment-service_smells.arff
+-rw-r--r--  1 alikhan  staff  10823  3 Aug 15:23 field.csv
+-rw-r--r--  1 alikhan  staff  30469  3 Aug 15:23 variable.csv
+-rw-r--r--  1 alikhan  staff  14801  3 Aug 15:23 method.csv
+-rw-r--r--  1 alikhan  staff   4943  3 Aug 15:23 class.csv
+
+./ts-payment-service:
+total 56
+-rw-r--r--@ 1 alikhan  staff   999  3 Aug 23:43 ts-payment-service_smells.arff
+-rw-r--r--  1 alikhan  staff  1816  3 Aug 15:23 field.csv
+-rw-r--r--  1 alikhan  staff  5400  3 Aug 15:23 variable.csv
+-rw-r--r--  1 alikhan  staff  5528  3 Aug 15:23 method.csv
+-rw-r--r--  1 alikhan  staff  2907  3 Aug 15:23 class.csv
+
+./ts-gateway-service:
+total 40
+-rw-r--r--@ 1 alikhan  staff   629  3 Aug 23:43 ts-gateway-service_smells.arff
+-rw-r--r--  1 alikhan  staff   706  3 Aug 15:23 field.csv
+-rw-r--r--  1 alikhan  staff  1073  3 Aug 15:23 variable.csv
+-rw-r--r--  1 alikhan  staff  1660  3 Aug 15:23 method.csv
+-rw-r--r--  1 alikhan  staff  1041  3 Aug 15:23 class.csv
+
+./ts-route-plan-service:
+total 80
+-rw-r--r--@ 1 alikhan  staff   1126  3 Aug 23:43 ts-route-plan-service_smells.arff
+-rw-r--r--  1 alikhan  staff   1442  3 Aug 15:23 field.csv
+-rw-r--r--  1 alikhan  staff  18990  3 Aug 15:23 variable.csv
+-rw-r--r--  1 alikhan  staff   4790  3 Aug 15:23 method.csv
+-rw-r--r--  1 alikhan  staff   3469  3 Aug 15:23 class.csv
+
+./ts-user-service:
+total 64
+-rw-r--r--@ 1 alikhan  staff  1084  3 Aug 23:43 ts-user-service_smells.arff
+-rw-r--r--  1 alikhan  staff  3570  3 Aug 15:23 field.csv
+-rw-r--r--  1 alikhan  staff  9856  3 Aug 15:23 variable.csv
+-rw-r--r--  1 alikhan  staff  7337  3 Aug 15:23 method.csv
+-rw-r--r--  1 alikhan  staff  3020  3 Aug 15:23 class.csv
+
+./ts-auth-service:
+total 72
+-rw-r--r--@ 1 alikhan  staff  1421  3 Aug 23:43 ts-auth-service_smells.arff
+-rw-r--r--  1 alikhan  staff  4129  3 Aug 15:23 field.csv
+-rw-r--r--  1 alikhan  staff  7863  3 Aug 15:23 variable.csv
+-rw-r--r--  1 alikhan  staff  7943  3 Aug 15:23 method.csv
+-rw-r--r--  1 alikhan  staff  4529  3 Aug 15:23 class.csv
+
+./ts-station-service:
+total 88
+-rw-r--r--@ 1 alikhan  staff    921  3 Aug 23:43 ts-station-service_smells.arff
+-rw-r--r--  1 alikhan  staff   5114  3 Aug 15:23 field.csv
+-rw-r--r--  1 alikhan  staff  14464  3 Aug 15:23 variable.csv
+-rw-r--r--  1 alikhan  staff  10006  3 Aug 15:23 method.csv
+-rw-r--r--  1 alikhan  staff   2583  3 Aug 15:23 class.csv
+
+./ts-common:
+total 168
+-rw-r--r--@ 1 alikhan  staff   2735  3 Aug 23:43 ts-common_smells.arff
+-rw-r--r--  1 alikhan  staff  20862  3 Aug 15:23 field.csv
+-rw-r--r--  1 alikhan  staff  18026  3 Aug 15:23 variable.csv
+-rw-r--r--  1 alikhan  staff  21371  3 Aug 15:23 method.csv
+-rw-r--r--  1 alikhan  staff  11184  3 Aug 15:23 class.csv
+
+./ts-preserve-other-service:
+total 96
+-rw-r--r--@ 1 alikhan  staff   1212  3 Aug 23:43 ts-preserve-other-service_smells.arff
+-rw-r--r--  1 alikhan  staff   3060  3 Aug 15:22 field.csv
+-rw-r--r--  1 alikhan  staff  22011  3 Aug 15:22 variable.csv
+-rw-r--r--  1 alikhan  staff   6058  3 Aug 15:22 method.csv
+-rw-r--r--  1 alikhan  staff   4181  3 Aug 15:22 class.csv
+
+./ts-basic-service:
+total 104
+-rw-r--r--@ 1 alikhan  staff    840  3 Aug 23:43 ts-basic-service_smells.arff
+-rw-r--r--  1 alikhan  staff   3339  3 Aug 15:22 field.csv
+-rw-r--r--  1 alikhan  staff  29636  3 Aug 15:22 variable.csv
+-rw-r--r--  1 alikhan  staff   6560  3 Aug 15:22 method.csv
+-rw-r--r--  1 alikhan  staff   2178  3 Aug 15:22 class.csv
+
+./ts-wait-order-service:
+total 88
+-rw-r--r--@ 1 alikhan  staff   1046  3 Aug 23:43 ts-wait-order-service_smells.arff
+-rw-r--r--  1 alikhan  staff   8019  3 Aug 15:22 field.csv
+-rw-r--r--  1 alikhan  staff  13323  3 Aug 15:22 variable.csv
+-rw-r--r--  1 alikhan  staff  10081  3 Aug 15:22 method.csv
+-rw-r--r--  1 alikhan  staff   3105  3 Aug 15:22 class.csv
+
+./ts-consign-price-service:
+total 56
+-rw-r--r--@ 1 alikhan  staff   920  3 Aug 23:43 ts-consign-price-service_smells.arff
+-rw-r--r--  1 alikhan  staff  3126  3 Aug 15:22 field.csv
+-rw-r--r--  1 alikhan  staff  6424  3 Aug 15:22 variable.csv
+-rw-r--r--  1 alikhan  staff  5258  3 Aug 15:22 method.csv
+-rw-r--r--  1 alikhan  staff  2519  3 Aug 15:22 class.csv
+
+./ts-food-delivery-service:
+total 88
+-rw-r--r--@ 1 alikhan  staff   1129  3 Aug 23:43 ts-food-delivery-service_smells.arff
+-rw-r--r--  1 alikhan  staff   6943  3 Aug 15:22 field.csv
+-rw-r--r--  1 alikhan  staff  15404  3 Aug 15:22 variable.csv
+-rw-r--r--  1 alikhan  staff   8823  3 Aug 15:22 method.csv
+-rw-r--r--  1 alikhan  staff   3592  3 Aug 15:22 class.csv
+
+./ts-admin-basic-info-service:
+total 144
+-rw-r--r--@ 1 alikhan  staff    845  3 Aug 23:43 ts-admin-basic-info-service_smells.arff
+-rw-r--r--  1 alikhan  staff   7703  3 Aug 15:22 field.csv
+-rw-r--r--  1 alikhan  staff  34902  3 Aug 15:22 variable.csv
+-rw-r--r--  1 alikhan  staff  16387  3 Aug 15:22 method.csv
+-rw-r--r--  1 alikhan  staff   2135  3 Aug 15:22 class.csv
+
+./ts-train-food-service:
+total 56
+-rw-r--r--@ 1 alikhan  staff   918  3 Aug 23:43 ts-train-food-service_smells.arff
+-rw-r--r--  1 alikhan  staff  1759  3 Aug 15:22 field.csv
+-rw-r--r--  1 alikhan  staff  4756  3 Aug 15:22 variable.csv
+-rw-r--r--  1 alikhan  staff  4720  3 Aug 15:22 method.csv
+-rw-r--r--  1 alikhan  staff  2443  3 Aug 15:22 class.csv
+
+./ts-rebook-service:
+total 96
+-rw-r--r--@ 1 alikhan  staff    967  3 Aug 23:43 ts-rebook-service_smells.arff
+-rw-r--r--  1 alikhan  staff   2870  3 Aug 15:22 field.csv
+-rw-r--r--  1 alikhan  staff  27460  3 Aug 15:22 variable.csv
+-rw-r--r--  1 alikhan  staff   6586  3 Aug 15:22 method.csv
+-rw-r--r--  1 alikhan  staff   2628  3 Aug 15:22 class.csv
+
+./ts-station-food-service:
+total 56
+-rw-r--r--@ 1 alikhan  staff   922  3 Aug 23:43 ts-station-food-service_smells.arff
+-rw-r--r--  1 alikhan  staff  2802  3 Aug 15:22 field.csv
+-rw-r--r--  1 alikhan  staff  6252  3 Aug 15:22 variable.csv
+-rw-r--r--  1 alikhan  staff  6067  3 Aug 15:22 method.csv
+-rw-r--r--  1 alikhan  staff  2377  3 Aug 15:22 class.csv
+
+./ts-food-service:
+total 96
+-rw-r--r--@ 1 alikhan  staff   1168  3 Aug 23:43 ts-food-service_smells.arff
+-rw-r--r--  1 alikhan  staff   5223  3 Aug 15:22 field.csv
+-rw-r--r--  1 alikhan  staff  17738  3 Aug 15:22 variable.csv
+-rw-r--r--  1 alikhan  staff   8728  3 Aug 15:22 method.csv
+-rw-r--r--  1 alikhan  staff   3611  3 Aug 15:22 class.csv
+
+./ts-verification-code-service:
+total 72
+-rw-r--r--@ 1 alikhan  staff    841  3 Aug 23:43 ts-verification-code-service_smells.arff
+-rw-r--r--  1 alikhan  staff   3051  3 Aug 15:22 field.csv
+-rw-r--r--  1 alikhan  staff  16327  3 Aug 15:22 variable.csv
+-rw-r--r--  1 alikhan  staff   4439  3 Aug 15:22 method.csv
+-rw-r--r--  1 alikhan  staff   2080  3 Aug 15:22 class.csv
+
+./ts-order-service:
+total 152
+-rw-r--r--@ 1 alikhan  staff   1061  3 Aug 23:43 ts-order-service_smells.arff
+-rw-r--r--  1 alikhan  staff  12858  3 Aug 15:22 field.csv
+-rw-r--r--  1 alikhan  staff  30526  3 Aug 15:22 variable.csv
+-rw-r--r--  1 alikhan  staff  16960  3 Aug 15:22 method.csv
+-rw-r--r--  1 alikhan  staff   2969  3 Aug 15:22 class.csv
+
+./ts-train-service:
+total 64
+-rw-r--r--@ 1 alikhan  staff   922  3 Aug 23:43 ts-train-service_smells.arff
+-rw-r--r--  1 alikhan  staff  3132  3 Aug 15:22 field.csv
+-rw-r--r--  1 alikhan  staff  9775  3 Aug 15:22 variable.csv
+-rw-r--r--  1 alikhan  staff  7492  3 Aug 15:22 method.csv
+-rw-r--r--  1 alikhan  staff  2356  3 Aug 15:22 class.csv
+
+./ts-consign-service:
+total 64
+-rw-r--r--@ 1 alikhan  staff  1129  3 Aug 23:43 ts-consign-service_smells.arff
+-rw-r--r--  1 alikhan  staff  3494  3 Aug 15:22 field.csv
+-rw-r--r--  1 alikhan  staff  8617  3 Aug 15:22 variable.csv
+-rw-r--r--  1 alikhan  staff  6461  3 Aug 15:22 method.csv
+-rw-r--r--  1 alikhan  staff  3377  3 Aug 15:22 class.csv
+
+./ts-security-service:
+total 64
+-rw-r--r--@ 1 alikhan  staff   1002  3 Aug 23:43 ts-security-service_smells.arff
+-rw-r--r--  1 alikhan  staff   2975  3 Aug 15:22 field.csv
+-rw-r--r--  1 alikhan  staff  11188  3 Aug 15:22 variable.csv
+-rw-r--r--  1 alikhan  staff   6861  3 Aug 15:22 method.csv
+-rw-r--r--  1 alikhan  staff   2852  3 Aug 15:22 class.csv
+
+./ts-preserve-service:
+total 80
+-rw-r--r--@ 1 alikhan  staff   1171  3 Aug 23:43 ts-preserve-service_smells.arff
+-rw-r--r--  1 alikhan  staff   2842  3 Aug 15:22 field.csv
+-rw-r--r--  1 alikhan  staff  19116  3 Aug 15:22 variable.csv
+-rw-r--r--  1 alikhan  staff   5513  3 Aug 15:22 method.csv
+-rw-r--r--  1 alikhan  staff   3687  3 Aug 15:22 class.csv
+
+./ts-price-service:
+total 64
+-rw-r--r--@ 1 alikhan  staff    920  3 Aug 23:43 ts-price-service_smells.arff
+-rw-r--r--  1 alikhan  staff   3387  3 Aug 15:22 field.csv
+-rw-r--r--  1 alikhan  staff  10486  3 Aug 15:22 variable.csv
+-rw-r--r--  1 alikhan  staff   7020  3 Aug 15:22 method.csv
+-rw-r--r--  1 alikhan  staff   2361  3 Aug 15:22 class.csv
+
+./ts-route-service:
+total 72
+-rw-r--r--@ 1 alikhan  staff    961  3 Aug 23:43 ts-route-service_smells.arff
+-rw-r--r--  1 alikhan  staff   4798  3 Aug 15:22 field.csv
+-rw-r--r--  1 alikhan  staff  10878  3 Aug 15:22 variable.csv
+-rw-r--r--  1 alikhan  staff   7103  3 Aug 15:22 method.csv
+-rw-r--r--  1 alikhan  staff   2511  3 Aug 15:22 class.csv
+
+./ts-order-other-service:
+total 152
+-rw-r--r--@ 1 alikhan  staff   1060  3 Aug 23:42 ts-order-other-service_smells.arff
+-rw-r--r--  1 alikhan  staff  13843  3 Aug 15:22 field.csv
+-rw-r--r--  1 alikhan  staff  32136  3 Aug 15:22 variable.csv
+-rw-r--r--  1 alikhan  staff  16682  3 Aug 15:22 method.csv
+-rw-r--r--  1 alikhan  staff   3015  3 Aug 15:22 class.csv
+
+./ts-assurance-service:
+total 88
+-rw-r--r--@ 1 alikhan  staff   1045  3 Aug 23:42 ts-assurance-service_smells.arff
+-rw-r--r--  1 alikhan  staff   4386  3 Aug 15:22 field.csv
+-rw-r--r--  1 alikhan  staff  14212  3 Aug 15:22 variable.csv
+-rw-r--r--  1 alikhan  staff  10169  3 Aug 15:22 method.csv
+-rw-r--r--  1 alikhan  staff   3036  3 Aug 15:22 class.csv
+
+./ts-config-service:
+total 64
+-rw-r--r--@ 1 alikhan  staff   920  3 Aug 23:42 ts-config-service_smells.arff
+-rw-r--r--  1 alikhan  staff  4169  3 Aug 15:22 field.csv
+-rw-r--r--  1 alikhan  staff  6428  3 Aug 15:22 variable.csv
+-rw-r--r--  1 alikhan  staff  5647  3 Aug 15:22 method.csv
+-rw-r--r--  1 alikhan  staff  2342  3 Aug 15:22 class.csv
+
+./ts-cancel-service:
+total 72
+-rw-r--r--@ 1 alikhan  staff   1045  3 Aug 23:42 ts-cancel-service_smells.arff
+-rw-r--r--  1 alikhan  staff   1886  3 Aug 15:22 field.csv
+-rw-r--r--  1 alikhan  staff  14488  3 Aug 15:22 variable.csv
+-rw-r--r--  1 alikhan  staff   5635  3 Aug 15:22 method.csv
+-rw-r--r--  1 alikhan  staff   3029  3 Aug 15:22 class.csv
+
+./ts-notification-service:
+total 88
+-rw-r--r--@ 1 alikhan  staff   1175  3 Aug 23:42 ts-notification-service_smells.arff
+-rw-r--r--  1 alikhan  staff  10419  3 Aug 15:22 field.csv
+-rw-r--r--  1 alikhan  staff  10085  3 Aug 15:22 variable.csv
+-rw-r--r--  1 alikhan  staff   8258  3 Aug 15:22 method.csv
+-rw-r--r--  1 alikhan  staff   3660  3 Aug 15:22 class.csv
+
+./ts-admin-user-service:
+total 56
+-rw-r--r--@ 1 alikhan  staff   918  3 Aug 23:42 ts-admin-user-service_smells.arff
+-rw-r--r--  1 alikhan  staff  2396  3 Aug 15:22 field.csv
+-rw-r--r--  1 alikhan  staff  7888  3 Aug 15:22 variable.csv
+-rw-r--r--  1 alikhan  staff  4576  3 Aug 15:22 method.csv
+-rw-r--r--  1 alikhan  staff  2468  3 Aug 15:22 class.csv
+
+./ts-contacts-service:
+total 80
+-rw-r--r--@ 1 alikhan  staff    964  3 Aug 23:42 ts-contacts-service_smells.arff
+-rw-r--r--  1 alikhan  staff   4640  3 Aug 15:22 field.csv
+-rw-r--r--  1 alikhan  staff  10479  3 Aug 15:22 variable.csv
+-rw-r--r--  1 alikhan  staff   8622  3 Aug 15:22 method.csv
+-rw-r--r--  1 alikhan  staff   2601  3 Aug 15:22 class.csv
+
+./ts-admin-travel-service:
+total 72
+-rw-r--r--@ 1 alikhan  staff    880  3 Aug 23:43 ts-admin-travel-service_smells.arff
+-rw-r--r--  1 alikhan  staff   2859  3 Aug 15:23 field.csv
+-rw-r--r--  1 alikhan  staff  15946  3 Aug 15:23 variable.csv
+-rw-r--r--  1 alikhan  staff   5855  3 Aug 15:23 method.csv
+-rw-r--r--@ 1 alikhan  staff   2377  3 Aug 15:23 class.csv
+
+./ts-admin-route-service:
+total 56
+-rw-r--r--@ 1 alikhan  staff   837  3 Aug 23:43 ts-admin-route-service_smells.arff
+-rw-r--r--  1 alikhan  staff  2527  3 Aug 15:23 field.csv
+-rw-r--r--  1 alikhan  staff  7511  3 Aug 15:23 variable.csv
+-rw-r--r--  1 alikhan  staff  4278  3 Aug 15:23 method.csv
+-rw-r--r--  1 alikhan  staff  2106  3 Aug 15:23 class.csv
+
+./bin:
+total 0

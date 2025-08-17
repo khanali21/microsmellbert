@@ -1,0 +1,67 @@
+VAR VAR.VAR;
+
+VAR VAR.VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR.VAR.VAR;
+
+VAR VAR VAR.VAR.VAR.VAR.VAR.VAR;
+
+@VAR
+@VAR
+@VAR(VAR = VAR)
+VAR VAR VAR VAR VAR {
+
+    
+    @VAR
+    VAR VAR VAR() {
+        VAR VAR VAR();
+    }
+
+    
+    @VAR
+    VAR VAR VAR() {
+        VAR VAR VAR() {
+            @VAR
+            VAR VAR VAR(VAR VAR) {
+                VAR.VAR("/**")
+                        .VAR(VAR)
+                        .VAR(VAR)
+                        .VAR(VAR)
+                        .VAR(VAR)
+                        .VAR(3600);
+            }
+        };
+    }
+
+
+    @VAR
+    VAR VAR VAR(VAR VAR) VAR VAR {
+        VAR.VAR().VAR()
+                
+                .VAR().VAR()
+                
+                .VAR().VAR(VAR.VAR)
+                .VAR()
+                .VAR()
+                .VAR("/VAR/VAR/VAR/**").VAR()
+                .VAR("/VAR-VAR.VAR", "/VAR/**", "/VAR/**",
+                        "/VAR/**", "/VAR-VAR/**", "/VAR/**").VAR()
+                .VAR().VAR()
+                .VAR()
+                .VAR(VAR VAR(), VAR.VAR);
+
+        
+        VAR.VAR().VAR();
+    }
+}

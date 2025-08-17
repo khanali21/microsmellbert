@@ -1,0 +1,58 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.RandomForest -P 100 -I 100 -num-slots 1 -K 0 -M 1.0 -V 0.001 -S 1
+Relation:     code_smells_extended
+Instances:    4059
+Attributes:   16
+              loc
+              wmc
+              cbo
+              lcom
+              rfc
+              noc
+              totalmethodsqty
+              totalfieldsqty
+              is_functional_decomposition
+              is_data_class
+              is_lazy_class
+              is_spaghetti
+              is_swiss_army_knife
+              is_blob
+              has_long_method
+              has_long_parameter_list
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+RandomForest
+
+Bagging with 100 iterations and base learner
+
+weka.classifiers.trees.RandomTree -K 0 -M 1.0 -V 0.001 -S 1 -do-not-check-capabilities
+
+Time taken to build model: 0.08 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances        4056               99.9261 %
+Incorrectly Classified Instances         3                0.0739 %
+Kappa statistic                          0.9139
+Mean absolute error                      0.0014
+Root mean squared error                  0.0212
+Relative absolute error                 15.7365 %
+Root relative squared error             32.7691 %
+Total Number of Instances             4059     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.941    0.000    0.889      0.941    0.914      0.914    1.000     0.990     yes
+                 1.000    0.059    1.000      1.000    1.000      0.914    1.000     1.000     no
+Weighted Avg.    0.999    0.059    0.999      0.999    0.999      0.914    1.000     1.000     
+
+=== Confusion Matrix ===
+
+    a    b   <-- classified as
+   16    1 |    a = yes
+    2 4040 |    b = no

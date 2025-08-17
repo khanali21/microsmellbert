@@ -1,0 +1,148 @@
+VAR VAR.VAR.VAR;
+
+VAR VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR;
+VAR VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR;
+VAR VAR.VAR.VAR;
+
+VAR VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR;
+VAR VAR.VAR.*;
+VAR VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR;
+VAR VAR.VAR.VAR;
+VAR VAR.VAR.VAR;
+VAR VAR.VAR.VAR;
+VAR VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR;
+
+
+@VAR
+VAR VAR VAR VAR VAR {
+
+    VAR VAR VAR VAR VAR = 1000;
+    VAR VAR VAR VAR VAR = VAR.VAR(VAR.VAR);
+
+    VAR VAR = "VAR";
+
+    
+    VAR VAR<VAR, VAR> VAR = VAR.VAR()
+            
+            .VAR(VAR)
+            .VAR(VAR, VAR.VAR)
+            .VAR();
+
+    VAR VAR VAR VAR[] = {
+            'VAR', 'VAR', 'VAR', 'VAR', 'VAR', 'VAR', 'VAR', 'VAR', 'VAR', 'VAR',
+            'VAR', 'VAR', 'VAR', 'VAR', 'VAR', 'VAR', 'VAR', 'VAR', 'VAR', 'VAR', 'VAR', 'VAR', 'VAR',
+            'VAR', 'VAR', 'VAR', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9'};
+
+    @VAR
+    VAR VAR<VAR, VAR> VAR(VAR VAR, VAR VAR, VAR VAR, VAR VAR, VAR VAR, VAR VAR) {
+        VAR<VAR, VAR> VAR = VAR VAR<>();
+        VAR (VAR <= 0) {
+            VAR = 60;
+        }
+        VAR (VAR <= 0) {
+            VAR = 20;
+        }
+        VAR VAR = VAR VAR(VAR, VAR, VAR.VAR);
+
+        VAR VAR = VAR.VAR();
+
+        VAR VAR = VAR VAR(); 
+
+        VAR.VAR(VAR(200, 250));
+        VAR.VAR(0, 0, VAR, VAR);
+
+        VAR.VAR(VAR VAR("VAR VAR VAR", VAR.VAR, 18));
+
+        VAR.VAR(VAR(160, 200));
+        VAR (VAR VAR = 0; VAR < 168; VAR++) {
+            VAR VAR = VAR.VAR(VAR);
+            VAR VAR = VAR.VAR(VAR);
+            VAR VAR = VAR.VAR(12);
+            VAR VAR = VAR.VAR(12);
+            VAR.VAR(VAR, VAR, VAR + VAR, VAR + VAR);
+        }
+
+        VAR VAR = "";
+
+        VAR (VAR VAR = 0; VAR < 4; ++VAR) {
+            VAR += VAR[(VAR) (VAR.VAR * VAR.VAR())];
+
+            VAR.VAR(VAR VAR(20 + VAR.VAR(110), 20 + VAR.VAR(110), 20 + VAR.VAR(110)));
+
+            VAR VAR = VAR.VAR(VAR, VAR + 1);
+            VAR.VAR(VAR, 13 * VAR + 6, 16);
+        }
+
+        VAR.VAR();
+        VAR.VAR("VAR", VAR);
+        VAR.VAR("VAR", VAR);
+
+        VAR VAR = VAR.VAR(VAR, VAR);
+        VAR VAR;
+        VAR (VAR == VAR) {
+            VAR.VAR.VAR("[VAR][VAR VAR VAR VAR.VAR VAR VAR][VAR VAR: {}]",VAR.VAR());
+            VAR = VAR.VAR().VAR().VAR("-", "").VAR();
+            VAR.VAR(VAR, VAR, VAR, VAR);
+        } VAR {
+            VAR (VAR.VAR() != VAR) {
+                VAR = VAR.VAR().VAR().VAR("-", "").VAR();
+                VAR.VAR(VAR, VAR, VAR, VAR);
+            } VAR {
+                VAR = VAR.VAR();
+            }
+        }
+        VAR.VAR.VAR("[VAR][VAR: {}]", VAR);
+        VAR.VAR(VAR, VAR);
+        VAR VAR;
+    }
+
+    @VAR
+    VAR VAR VAR(VAR VAR, VAR VAR, VAR VAR, VAR VAR) {
+        VAR VAR = VAR;
+        VAR VAR = VAR.VAR(VAR, VAR);
+        VAR VAR;
+        VAR (VAR == VAR) {
+            VAR.VAR.VAR("[VAR][VAR VAR VAR][VAR VAR VAR][VAR VAR: {}]",VAR.VAR());
+            VAR = VAR.VAR().VAR().VAR("-", "").VAR();
+            VAR.VAR(VAR, VAR, VAR, VAR);
+        } VAR {
+            VAR = VAR.VAR();
+        }
+
+        VAR VAR = VAR.VAR(VAR);
+        VAR.VAR("VAR VAR VAR VAR " + VAR + "   VAR :" + VAR);
+        VAR (VAR == VAR) {
+            VAR.VAR.VAR("[VAR][VAR VAR VAR VAR][VAR VAR VAR][VAR: {}]",VAR);
+            VAR VAR;
+        }
+        VAR (VAR.VAR(VAR)) {
+            VAR = VAR;
+        }
+        VAR VAR;
+    }
+
+
+    VAR VAR VAR(VAR VAR, VAR VAR) {
+        VAR VAR = VAR VAR(); 
+        VAR (VAR > 255) {
+            VAR = 255;
+        }
+        VAR (VAR > 255) {
+            VAR = 255;
+        }
+        VAR VAR = VAR + VAR.VAR(VAR - VAR);
+        VAR VAR = VAR + VAR.VAR(VAR - VAR);
+        VAR VAR = VAR + VAR.VAR(VAR - VAR);
+        VAR VAR VAR(VAR, VAR, VAR);
+    }
+
+}

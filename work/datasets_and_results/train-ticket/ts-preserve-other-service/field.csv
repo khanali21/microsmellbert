@@ -1,0 +1,17 @@
+file,class,method,variable,usage
+/data/preserveOther/config/Queues.java,preserveOther.config.Queues,emailQueue/0,queueName,1
+/data/preserveOther/service/PreserveOtherServiceImpl.java,preserveOther.service.PreserveOtherServiceImpl,"checkSecurity/2[java.lang.String,preserveOther.service.HttpHeaders]",restTemplate,1
+/data/preserveOther/service/PreserveOtherServiceImpl.java,preserveOther.service.PreserveOtherServiceImpl,"sendEmail/2[preserveOther.service.NotifyInfo,preserveOther.service.HttpHeaders]",sendService,1
+/data/preserveOther/service/PreserveOtherServiceImpl.java,preserveOther.service.PreserveOtherServiceImpl,"queryForStationId/2[java.lang.String,preserveOther.service.HttpHeaders]",restTemplate,1
+/data/preserveOther/service/PreserveOtherServiceImpl.java,preserveOther.service.PreserveOtherServiceImpl,"createConsign/2[preserveOther.service.Consign,preserveOther.service.HttpHeaders]",restTemplate,1
+/data/preserveOther/service/PreserveOtherServiceImpl.java,preserveOther.service.PreserveOtherServiceImpl,"dipatchSeat/8[java.lang.String,java.lang.String,java.lang.String,java.lang.String,int,int,java.util.List<java.lang.String>,preserveOther.service.HttpHeaders]",restTemplate,1
+/data/preserveOther/service/PreserveOtherServiceImpl.java,preserveOther.service.PreserveOtherServiceImpl,"getContactsById/2[java.lang.String,preserveOther.service.HttpHeaders]",restTemplate,1
+/data/preserveOther/service/PreserveOtherServiceImpl.java,preserveOther.service.PreserveOtherServiceImpl,"getAccount/2[java.lang.String,preserveOther.service.HttpHeaders]",restTemplate,1
+/data/preserveOther/service/PreserveOtherServiceImpl.java,preserveOther.service.PreserveOtherServiceImpl,"getTripAllDetailInformation/2[preserveOther.service.TripAllDetailInfo,preserveOther.service.HttpHeaders]",restTemplate,1
+/data/preserveOther/service/PreserveOtherServiceImpl.java,preserveOther.service.PreserveOtherServiceImpl,"createOrder/2[preserveOther.service.Order,preserveOther.service.HttpHeaders]",restTemplate,1
+/data/preserveOther/service/PreserveOtherServiceImpl.java,preserveOther.service.PreserveOtherServiceImpl,"preserve/2[preserveOther.service.OrderTicketsInfo,preserveOther.service.HttpHeaders]",restTemplate,1
+/data/preserveOther/service/PreserveOtherServiceImpl.java,preserveOther.service.PreserveOtherServiceImpl,"addAssuranceForOrder/3[int,java.lang.String,preserveOther.service.HttpHeaders]",restTemplate,1
+/data/preserveOther/service/PreserveOtherServiceImpl.java,preserveOther.service.PreserveOtherServiceImpl,"createFoodOrder/2[preserveOther.service.FoodOrder,preserveOther.service.HttpHeaders]",restTemplate,1
+/data/preserveOther/mq/RabbitSend.java,preserveOther.mq.RabbitSend,send/1[java.lang.String],logger,1
+/data/preserveOther/mq/RabbitSend.java,preserveOther.mq.RabbitSend,send/1[java.lang.String],rabbitTemplate,1
+/data/preserveOther/controller/PreserveOtherController.java,preserveOther.controller.PreserveOtherController,"preserve/2[preserveOther.controller.OrderTicketsInfo,preserveOther.controller.HttpHeaders]",preserveService,1

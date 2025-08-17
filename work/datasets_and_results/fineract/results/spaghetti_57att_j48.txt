@@ -1,0 +1,107 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.J48 -C 0.25 -M 2
+Relation:     code_smells_extended
+Instances:    4059
+Attributes:   57
+              cbo
+              cbomodified
+              fanin
+              fanout
+              wmc
+              dit
+              noc
+              rfc
+              lcom
+              lcom*
+              tcc
+              lcc
+              totalmethodsqty
+              staticmethodsqty
+              publicmethodsqty
+              privatemethodsqty
+              protectedmethodsqty
+              defaultmethodsqty
+              visiblemethodsqty
+              abstractmethodsqty
+              finalmethodsqty
+              synchronizedmethodsqty
+              totalfieldsqty
+              staticfieldsqty
+              publicfieldsqty
+              privatefieldsqty
+              protectedfieldsqty
+              defaultfieldsqty
+              finalfieldsqty
+              synchronizedfieldsqty
+              nosi
+              loc
+              returnqty
+              loopqty
+              comparisonsqty
+              trycatchqty
+              parenthesizedexpsqty
+              stringliteralsqty
+              numbersqty
+              assignmentsqty
+              mathoperationsqty
+              variablesqty
+              maxnestedblocksqty
+              anonymousclassesqty
+              innerclassesqty
+              lambdasqty
+              uniquewordsqty
+              modifiers
+              logstatementsqty
+              is_functional_decomposition
+              is_data_class
+              is_lazy_class
+              has_long_method
+              has_long_parameter_list
+              is_spaghetti
+              is_swiss_army_knife
+              is_blob
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+J48 pruned tree
+------------------
+
+is_blob = yes
+|   totalmethodsqty <= 22: no (2.0)
+|   totalmethodsqty > 22: yes (17.0)
+is_blob = no: no (4040.0)
+
+Number of Leaves  : 	3
+
+Size of the tree : 	5
+
+
+Time taken to build model: 0.04 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances        4056               99.9261 %
+Incorrectly Classified Instances         3                0.0739 %
+Kappa statistic                          0.9139
+Mean absolute error                      0.0008
+Root mean squared error                  0.0261
+Relative absolute error                  8.9412 %
+Root relative squared error             40.4741 %
+Total Number of Instances             4059     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.941    0.000    0.889      0.941    0.914      0.914    0.971     0.915     yes
+                 1.000    0.059    1.000      1.000    1.000      0.914    0.971     1.000     no
+Weighted Avg.    0.999    0.059    0.999      0.999    0.999      0.914    0.971     0.999     
+
+=== Confusion Matrix ===
+
+    a    b   <-- classified as
+   16    1 |    a = yes
+    2 4040 |    b = no
+

@@ -1,0 +1,15 @@
+file,class,method,variable,usage
+/data/adminroute/controller/AdminRouteController.java,adminroute.controller.AdminRouteController,"addRoute/2[adminroute.controller.RouteInfo,adminroute.controller.HttpHeaders]",adminRouteService,1
+/data/adminroute/controller/AdminRouteController.java,adminroute.controller.AdminRouteController,"addRoute/2[adminroute.controller.RouteInfo,adminroute.controller.HttpHeaders]",logger,1
+/data/adminroute/controller/AdminRouteController.java,adminroute.controller.AdminRouteController,"deleteRoute/2[java.lang.String,adminroute.controller.HttpHeaders]",adminRouteService,1
+/data/adminroute/controller/AdminRouteController.java,adminroute.controller.AdminRouteController,"deleteRoute/2[java.lang.String,adminroute.controller.HttpHeaders]",logger,1
+/data/adminroute/controller/AdminRouteController.java,adminroute.controller.AdminRouteController,getAllRoutes/1[adminroute.controller.HttpHeaders],adminRouteService,1
+/data/adminroute/controller/AdminRouteController.java,adminroute.controller.AdminRouteController,getAllRoutes/1[adminroute.controller.HttpHeaders],logger,1
+/data/adminroute/service/AdminRouteServiceImpl.java,adminroute.service.AdminRouteServiceImpl,getAllRoutes/1[adminroute.service.HttpHeaders],restTemplate,1
+/data/adminroute/service/AdminRouteServiceImpl.java,adminroute.service.AdminRouteServiceImpl,getAllRoutes/1[adminroute.service.HttpHeaders],logger,1
+/data/adminroute/service/AdminRouteServiceImpl.java,adminroute.service.AdminRouteServiceImpl,"deleteRoute/2[java.lang.String,adminroute.service.HttpHeaders]",restTemplate,1
+/data/adminroute/service/AdminRouteServiceImpl.java,adminroute.service.AdminRouteServiceImpl,"deleteRoute/2[java.lang.String,adminroute.service.HttpHeaders]",logger,1
+/data/adminroute/service/AdminRouteServiceImpl.java,adminroute.service.AdminRouteServiceImpl,"checkStationsExists/2[java.util.List<java.lang.String>,adminroute.service.HttpHeaders]",restTemplate,1
+/data/adminroute/service/AdminRouteServiceImpl.java,adminroute.service.AdminRouteServiceImpl,"checkStationsExists/2[java.util.List<java.lang.String>,adminroute.service.HttpHeaders]",logger,1
+/data/adminroute/service/AdminRouteServiceImpl.java,adminroute.service.AdminRouteServiceImpl,"createAndModifyRoute/2[adminroute.service.RouteInfo,adminroute.service.HttpHeaders]",restTemplate,1
+/data/adminroute/service/AdminRouteServiceImpl.java,adminroute.service.AdminRouteServiceImpl,"createAndModifyRoute/2[adminroute.service.RouteInfo,adminroute.service.HttpHeaders]",logger,2

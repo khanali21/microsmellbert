@@ -1,0 +1,8 @@
+file,class,method,constructor,line,cbo,cboModified,fanin,fanout,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+/data/gateway/GatewayConfiguration.java,gateway.GatewayConfiguration,initBlockHandlers/0,false,88,3,0,0,0,1,6,10,1,4,0,6,0,0,0,0,0,0,3,1,2,0,1,0,0,1,9,2,0,true
+/data/gateway/GatewayConfiguration.java,gateway.GatewayConfiguration,doInit/0,false,75,2,1,0,1,1,2,5,0,0,0,2,1,1,0,0,0,0,2,0,0,0,0,0,0,0,12,1,0,true
+/data/gateway/GatewayConfiguration.java,gateway.GatewayConfiguration,sentinelGatewayFilter/0,false,67,4,0,0,0,1,0,3,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,5,1,0,true
+/data/gateway/GatewayConfiguration.java,gateway.GatewayConfiguration,sentinelGatewayBlockExceptionHandler/0,false,55,3,0,0,0,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,true
+/data/gateway/GatewayConfiguration.java,gateway.GatewayConfiguration,initGatewayRules/0,false,107,1,1,1,0,1,5,5,0,1,0,5,0,0,0,0,0,0,1,2,1,0,0,0,0,0,17,2,0,true
+/data/gateway/GatewayConfiguration.java,gateway.GatewayConfiguration,"GatewayConfiguration/2[gateway.ObjectProvider<java.util.List<gateway.ViewResolver>>,gateway.ServerCodecConfigurer]",true,42,3,0,0,0,1,1,4,0,0,2,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,5,1,0,false
+/data/gateway/GatewayApplication.java,gateway.GatewayApplication,main/1[java.lang.String[]],false,16,1,0,0,0,1,1,3,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,0,false

@@ -1,0 +1,41 @@
+VAR VAR.VAR;
+
+
+VAR VAR VAR {
+
+    
+    VAR(0, "VAR"),
+    
+    VAR(1, "VAR"),
+    
+    VAR(2, "VAR"),
+    
+    VAR(3, "VAR");
+
+    VAR VAR VAR;
+    VAR VAR VAR;
+
+    VAR(VAR VAR, VAR VAR) {
+        VAR.VAR = VAR;
+        VAR.VAR = VAR;
+    }
+
+    VAR VAR VAR() {
+        VAR VAR;
+    }
+
+    VAR VAR VAR() {
+        VAR VAR;
+    }
+
+    VAR VAR VAR VAR(VAR VAR) {
+        VAR[] VAR = VAR.VAR();
+        VAR (VAR VAR : VAR) {
+            VAR (VAR.VAR() == VAR) {
+                VAR VAR.VAR();
+            }
+        }
+        VAR VAR[0].VAR();
+    }
+
+}

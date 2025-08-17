@@ -1,0 +1,742 @@
+{
+    "unversionedAPIContext": {
+        "unversionedAPIs": [
+            "",
+            "/securityConfigs",
+            "/payment",
+            "/welcome",
+            "/assurance/orderid/{orderId}",
+            "/prices/welcome",
+            "/contacts/{id}",
+            "/orders/dtime",
+            "/contacts/account/{accountId}",
+            "/order/query",
+            "/trainfoods/{tripId}",
+            "/{userName}",
+            "/adminbasic/contacts/{contactsId}",
+            "/id/{userId}",
+            "/assurances/{typeIndex}/{orderId}",
+            "/routes",
+            "/payment/money",
+            "/stationfoodstores/{stationId}",
+            "/stationfoodstores/bystoreid/{stationFoodStoreId}",
+            "/adminbasic/trains/{id}",
+            "/hello",
+            "/assurances/orderid/{orderId}",
+            "/order/{travelDate}/{trainNumber}",
+            "/routes/{start}/{end}",
+            "/assurances/assuranceid/{assuranceId}",
+            "/createOrderBatch",
+            "/adminbasic/trains",
+            "/securityConfigs/{id}",
+            "/orders/{orderId}",
+            "/test_send_mail",
+            "/orders/store/{storeId}",
+            "/cancel/refound/{orderId}",
+            "/orderOther/{travelDate}/{trainNumber}",
+            "/adminbasic/stations/{id}",
+            "/adminorder",
+            "/adminbasic/configs/{name}",
+            "/{userId}",
+            "/assurances/{assuranceId}/{orderId}/{typeIndex}",
+            "/orderOther/query",
+            "/stationfoodstores/welcome",
+            "/adminbasic/configs",
+            "/adminbasic/prices",
+            "/orderOther/{orderId}",
+            "/trainfoods",
+            "/order/refresh",
+            "/register",
+            "/execute/collected/{orderId}",
+            "/contacts",
+            "/orderOther/admin",
+            "/login",
+            "/adminroute",
+            "/order/orderPay/{orderId}",
+            "/test_send_delivery",
+            "/stationfoodstores",
+            "/order/{orderId}",
+            "/order/status/{orderId}/{status}",
+            "/foods/{date}/{startStation}/{endStation}/{tripId}",
+            "/trains/welcome",
+            "/waitlistorders",
+            "/orderOther/refresh",
+            "/contacts/admin",
+            "/trainfoods/welcome",
+            "/securityConfigs/{accountId}",
+            "/orders/d/{orderId}",
+            "/assurances",
+            "/contacts/welcome",
+            "/orderOther/status/{orderId}/{status}",
+            "/orders/tripid",
+            "/assurances/types",
+            "/routes/{routeId}",
+            "/generate",
+            "/admintravel",
+            "/order/security/{checkDate}/{accountId}",
+            "/orderOther",
+            "/adminbasic/prices/{pricesId}",
+            "/adminbasic/stations",
+            "/test_send_mq",
+            "/orderOther/orderPay/{orderId}",
+            "/adminbasic/contacts",
+            "/contacts/{contactsId}",
+            "/orders/all",
+            "/cancel/{orderId}/{loginId}",
+            "/order/price/{orderId}",
+            "/orders",
+            "/routes/byIds",
+            "/order/admin",
+            "/orders/seatno",
+            "/execute/execute/{orderId}",
+            "/orderOther/price/{orderId}",
+            "/order",
+            "/orderOther/security/{checkDate}/{accountId}"
+        ],
+        "count": 91
+    },
+    "hardCodedEndpointsContext": {
+        "hardcodedEndpoints": [],
+        "totalHardcodedEndpoints": 0,
+        "totalHardcodedPorts": 0,
+        "totalHardcodedIP": 0
+    },
+    "esbContext": {
+        "candidateESBs": []
+    },
+    "cyclicDependency": false,
+    "sharedPersistencyContext": {
+        "sharedPersistencies": []
+    },
+    "sharedLibraryContext": {
+        "sharedLibraries": {
+            "org.springframework.boot:spring-boot-starter-data-jpa": {
+                "library": "org.springframework.boot:spring-boot-starter-data-jpa",
+                "microservices": [
+                    "fdse.microservice:ts-consign-price-service",
+                    "fdse.microservice:ts-station-service",
+                    "fdse.microservice:ts-food-delivery-service",
+                    "fdse.microservice:ts-food-service",
+                    "fdse.microservice:ts-travel-service",
+                    "fdse.microservice:ts-consign-service",
+                    "fdse.microservice:ts-user-service",
+                    "fdse.microservice:ts-delivery-service",
+                    "fdse.microservice:ts-payment-service",
+                    "fdse.microservice:ts-notification-service",
+                    "fdse.microservice:ts-travel2-service",
+                    "fdse.microservice:ts-security-service",
+                    "fdse.microservice:ts-price-service",
+                    "fdse.microservice:ts-assurance-service",
+                    "fdse.microservice:ts-order-other-service",
+                    "fdse.microservice:ts-inside-payment-service",
+                    "fdse.microservice:ts-order-service",
+                    "fdse.microservice:ts-config-service",
+                    "fdse.microservice:ts-wait-order-service",
+                    "fdse.microservice:ts-auth-service",
+                    "fdse.microservice:ts-train-food-service",
+                    "fdse.microservice:ts-route-service",
+                    "fdse.microservice:ts-train-service",
+                    "fdse.microservice:ts-contacts-service",
+                    "fdse.microservice:ts-station-food-service"
+                ],
+                "count": 25
+            },
+            "org.services:ts-common": {
+                "library": "org.services:ts-common",
+                "microservices": [
+                    "fdse.microservice:ts-consign-price-service",
+                    "fdse.microservice:ts-station-service",
+                    "fdse.microservice:ts-food-delivery-service",
+                    "fdse.microservice:ts-food-service",
+                    "fdse.microservice:ts-cancel-service",
+                    "fdse.microservice:ts-execute-service",
+                    "fdse.microservice:ts-travel-service",
+                    "fdse.microservice:ts-admin-order-service",
+                    "fdse.microservice:ts-consign-service",
+                    "fdse.microservice:ts-user-service",
+                    "fdse.microservice:ts-delivery-service",
+                    "fdse.microservice:ts-preserve-service",
+                    "fdse.microservice:ts-admin-travel-service",
+                    "fdse.microservice:ts-admin-user-service",
+                    "fdse.microservice:ts-payment-service",
+                    "fdse.microservice:ts-notification-service",
+                    "fdse.microservice:ts-travel2-service",
+                    "fdse.microservice:ts-security-service",
+                    "fdse.microservice:ts-price-service",
+                    "fdse.microservice:ts-assurance-service",
+                    "fdse.microservice:ts-verification-code-service",
+                    "fdse.microservice:ts-basic-service",
+                    "fdse.microservice:ts-order-other-service",
+                    "fdse.microservice:ts-admin-route-service",
+                    "fdse.microservice:ts-inside-payment-service",
+                    "fdse.microservice:ts-order-service",
+                    "fdse.microservice:ts-seat-service",
+                    "fdse.microservice:ts-config-service",
+                    "fdse.microservice:ts-travel-plan-service",
+                    "fdse.microservice:ts-wait-order-service",
+                    "fdse.microservice:ts-admin-basic-info-service",
+                    "fdse.microservice:ts-auth-service",
+                    "fdse.microservice:ts-train-food-service",
+                    "fdse.microservice:ts-rebook-service",
+                    "fdse.microservice:ts-route-service",
+                    "fdse.microservice:ts-train-service",
+                    "fdse.microservice:ts-preserve-other-service",
+                    "fdse.microservice:ts-contacts-service",
+                    "fdse.microservice:ts-route-plan-service",
+                    "fdse.microservice:ts-station-food-service"
+                ],
+                "count": 40
+            },
+            "jakarta.validation:jakarta.validation-api": {
+                "library": "jakarta.validation:jakarta.validation-api",
+                "microservices": [
+                    "fdse.microservice:ts-travel2-service",
+                    "fdse.microservice:ts-price-service",
+                    "fdse.microservice:ts-assurance-service",
+                    "null:ts-common",
+                    "fdse.microservice:ts-basic-service",
+                    "fdse.microservice:ts-order-other-service",
+                    "fdse.microservice:ts-inside-payment-service",
+                    "fdse.microservice:ts-station-service",
+                    "fdse.microservice:ts-order-service",
+                    "fdse.microservice:ts-food-delivery-service",
+                    "fdse.microservice:ts-seat-service",
+                    "fdse.microservice:ts-config-service",
+                    "fdse.microservice:ts-travel-service",
+                    "fdse.microservice:ts-wait-order-service",
+                    "fdse.microservice:ts-admin-basic-info-service",
+                    "fdse.microservice:ts-train-food-service",
+                    "fdse.microservice:ts-rebook-service",
+                    "fdse.microservice:ts-train-service",
+                    "fdse.microservice:ts-preserve-service",
+                    "fdse.microservice:ts-preserve-other-service",
+                    "fdse.microservice:ts-payment-service",
+                    "fdse.microservice:ts-station-food-service"
+                ],
+                "count": 22
+            },
+            "org.springframework.boot:spring-boot-starter-amqp": {
+                "library": "org.springframework.boot:spring-boot-starter-amqp",
+                "microservices": [
+                    "fdse.microservice:ts-delivery-service",
+                    "fdse.microservice:ts-preserve-service",
+                    "fdse.microservice:ts-preserve-other-service",
+                    "fdse.microservice:ts-food-service"
+                ],
+                "count": 4
+            },
+            "io.springfox:springfox-swagger2": {
+                "library": "io.springfox:springfox-swagger2",
+                "microservices": [
+                    "fdse.microservice:ts-delivery-service",
+                    "org.services:ts-service"
+                ],
+                "count": 2
+            },
+            "org.springframework.boot:spring-boot-starter-web": {
+                "library": "org.springframework.boot:spring-boot-starter-web",
+                "microservices": [
+                    "myproject.microservices:micro-service-monitoring-core",
+                    "org.services:ts-service"
+                ],
+                "count": 2
+            },
+            "io.jsonwebtoken:jjwt": {
+                "library": "io.jsonwebtoken:jjwt",
+                "microservices": [
+                    "null:ts-common",
+                    "fdse.microservice:ts-auth-service"
+                ],
+                "count": 2
+            }
+        }
+    },
+    "microservicesGreedyContext": {
+        "microserviceMetrics": [
+            {
+                "path": "/opt/projects/train-ticket/ts-contacts-service",
+                "staticFileCount": 0,
+                "entityFileCount": 1
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-admin-user-service",
+                "staticFileCount": 0,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-notification-service",
+                "staticFileCount": 0,
+                "entityFileCount": 2
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-cancel-service",
+                "staticFileCount": 0,
+                "entityFileCount": 3
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-config-service",
+                "staticFileCount": 0,
+                "entityFileCount": 1
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-assurance-service",
+                "staticFileCount": 0,
+                "entityFileCount": 3
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-order-other-service",
+                "staticFileCount": 0,
+                "entityFileCount": 3
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-route-service",
+                "staticFileCount": 0,
+                "entityFileCount": 2
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-price-service",
+                "staticFileCount": 0,
+                "entityFileCount": 1
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-preserve-service",
+                "staticFileCount": 0,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-news-service",
+                "staticFileCount": 0,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-avatar-service",
+                "staticFileCount": 0,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-ui-dashboard",
+                "staticFileCount": 108,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-security-service",
+                "staticFileCount": 0,
+                "entityFileCount": 1
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-consign-service",
+                "staticFileCount": 0,
+                "entityFileCount": 4
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-train-service",
+                "staticFileCount": 0,
+                "entityFileCount": 1
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-order-service",
+                "staticFileCount": 0,
+                "entityFileCount": 3
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-ticket-office-service",
+                "staticFileCount": 1060,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-verification-code-service",
+                "staticFileCount": 0,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-food-service",
+                "staticFileCount": 0,
+                "entityFileCount": 3
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-station-food-service",
+                "staticFileCount": 0,
+                "entityFileCount": 1
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-rebook-service",
+                "staticFileCount": 0,
+                "entityFileCount": 1
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-train-food-service",
+                "staticFileCount": 0,
+                "entityFileCount": 1
+            },
+            {
+                "path": "/opt/projects/train-ticket/hack",
+                "staticFileCount": 0,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-admin-basic-info-service",
+                "staticFileCount": 0,
+                "entityFileCount": 1
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-food-delivery-service",
+                "staticFileCount": 0,
+                "entityFileCount": 5
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-consign-price-service",
+                "staticFileCount": 0,
+                "entityFileCount": 1
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-wait-order-service",
+                "staticFileCount": 0,
+                "entityFileCount": 2
+            },
+            {
+                "path": "/opt/projects/train-ticket/script",
+                "staticFileCount": 0,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/train-ticket/image",
+                "staticFileCount": 0,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-basic-service",
+                "staticFileCount": 0,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-preserve-other-service",
+                "staticFileCount": 0,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-common",
+                "staticFileCount": 0,
+                "entityFileCount": 38
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-station-service",
+                "staticFileCount": 0,
+                "entityFileCount": 1
+            },
+            {
+                "path": "/opt/projects/train-ticket/deployment",
+                "staticFileCount": 0,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-auth-service",
+                "staticFileCount": 0,
+                "entityFileCount": 1
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-user-service",
+                "staticFileCount": 0,
+                "entityFileCount": 1
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-route-plan-service",
+                "staticFileCount": 0,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-gateway-service",
+                "staticFileCount": 0,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-payment-service",
+                "staticFileCount": 0,
+                "entityFileCount": 2
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-inside-payment-service",
+                "staticFileCount": 0,
+                "entityFileCount": 6
+            },
+            {
+                "path": "/opt/projects/train-ticket/.github",
+                "staticFileCount": 0,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/train-ticket/old-docs",
+                "staticFileCount": 7,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-voucher-service",
+                "staticFileCount": 0,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/train-ticket/jenkins-ci",
+                "staticFileCount": 0,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-delivery-service",
+                "staticFileCount": 0,
+                "entityFileCount": 1
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-seat-service",
+                "staticFileCount": 0,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-execute-service",
+                "staticFileCount": 0,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-travel-plan-service",
+                "staticFileCount": 0,
+                "entityFileCount": 3
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-travel2-service",
+                "staticFileCount": 0,
+                "entityFileCount": 4
+            },
+            {
+                "path": "/opt/projects/train-ticket/.git",
+                "staticFileCount": 0,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-travel-service",
+                "staticFileCount": 0,
+                "entityFileCount": 4
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-admin-order-service",
+                "staticFileCount": 0,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-admin-travel-service",
+                "staticFileCount": 0,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/train-ticket/ts-admin-route-service",
+                "staticFileCount": 0,
+                "entityFileCount": 0
+            }
+        ],
+        "greedyMicroservices": []
+    },
+    "wrongCutsContext": {
+        "entityCounts": [
+            {
+                "path": "/ts-preserve-other-service-1.0",
+                "entityCount": 0
+            },
+            {
+                "path": "/ts-gateway-service-1.0",
+                "entityCount": 0
+            },
+            {
+                "path": "/ts-basic-service-1.0",
+                "entityCount": 0
+            },
+            {
+                "path": "/ts-verification-code-service-1.0",
+                "entityCount": 0
+            },
+            {
+                "path": "/ts-admin-user-service-1.0",
+                "entityCount": 0
+            },
+            {
+                "path": "/ts-seat-service-1.0",
+                "entityCount": 0
+            },
+            {
+                "path": "/ts-route-plan-service-1.0",
+                "entityCount": 0
+            },
+            {
+                "path": "/ts-admin-order-service-1.0",
+                "entityCount": 0
+            },
+            {
+                "path": "/ts-admin-travel-service-1.0",
+                "entityCount": 0
+            },
+            {
+                "path": "/ts-admin-route-service-1.0",
+                "entityCount": 0
+            },
+            {
+                "path": "/ts-execute-service-1.0",
+                "entityCount": 0
+            },
+            {
+                "path": "/ts-preserve-service-1.0",
+                "entityCount": 0
+            },
+            {
+                "path": "/ts-station-service-1.0",
+                "entityCount": 1
+            },
+            {
+                "path": "/ts-user-service-1.0",
+                "entityCount": 1
+            },
+            {
+                "path": "/ts-security-service-1.0",
+                "entityCount": 1
+            },
+            {
+                "path": "/ts-consign-price-service-1.0",
+                "entityCount": 1
+            },
+            {
+                "path": "/ts-train-service-1.0",
+                "entityCount": 1
+            },
+            {
+                "path": "/ts-delivery-service-1.0",
+                "entityCount": 1
+            },
+            {
+                "path": "/ts-station-food-service-1.0",
+                "entityCount": 1
+            },
+            {
+                "path": "/ts-config-service-1.0",
+                "entityCount": 1
+            },
+            {
+                "path": "/ts-contacts-service-1.0",
+                "entityCount": 1
+            },
+            {
+                "path": "/ts-train-food-service-1.0",
+                "entityCount": 1
+            },
+            {
+                "path": "/ts-price-service-1.0",
+                "entityCount": 1
+            },
+            {
+                "path": "/ts-rebook-service-1.0",
+                "entityCount": 1
+            },
+            {
+                "path": "/ts-admin-basic-info-service-1.0",
+                "entityCount": 1
+            },
+            {
+                "path": "/ts-auth-service-1.0",
+                "entityCount": 1
+            },
+            {
+                "path": "/ts-route-service-1.0",
+                "entityCount": 2
+            },
+            {
+                "path": "/ts-notification-service-1.0",
+                "entityCount": 2
+            },
+            {
+                "path": "/ts-wait-order-service-1.0",
+                "entityCount": 2
+            },
+            {
+                "path": "/ts-payment-service-1.0",
+                "entityCount": 2
+            },
+            {
+                "path": "/ts-assurance-service-1.0",
+                "entityCount": 3
+            },
+            {
+                "path": "/ts-order-service-1.0",
+                "entityCount": 3
+            },
+            {
+                "path": "/ts-cancel-service-1.0",
+                "entityCount": 3
+            },
+            {
+                "path": "/ts-food-service-1.0",
+                "entityCount": 3
+            },
+            {
+                "path": "/ts-travel-plan-service-1.0",
+                "entityCount": 3
+            },
+            {
+                "path": "/ts-order-other-service-1.0",
+                "entityCount": 3
+            },
+            {
+                "path": "/ts-travel-service-1.0",
+                "entityCount": 4
+            },
+            {
+                "path": "/ts-travel2-service-1.0",
+                "entityCount": 4
+            },
+            {
+                "path": "/ts-consign-service-1.0",
+                "entityCount": 4
+            },
+            {
+                "path": "/ts-food-delivery-service-1.0",
+                "entityCount": 5
+            },
+            {
+                "path": "/ts-inside-payment-service-1.0",
+                "entityCount": 6
+            },
+            {
+                "path": "/ts-common-0.1.0",
+                "entityCount": 38
+            }
+        ],
+        "possibleWrongCuts": [
+            {
+                "path": "/ts-common-0.1.0",
+                "entityCount": 38
+            }
+        ]
+    },
+    "inappropriateServiceIntimacyContext": {
+        "sharedIntimacies": [],
+        "count": 0
+    },
+    "tooManyStandardsContext": {
+        "presentationTypes": [
+            "STATIC"
+        ],
+        "businessTypes": [
+            "SPRING"
+        ],
+        "dataTypes": [
+            "MYSQL"
+        ]
+    },
+    "times": {
+        "Too Many Standards": 2865,
+        "Wrong Cuts": 2837,
+        "Bytecode Analysis": 0,
+        "Shared Persistency": 1087,
+        "Shared Library": 1661,
+        "ESB": 0,
+        "Microservice Greedy": 4725,
+        "Unversioned API": 4652,
+        "Hardcoded Enpoints": 0,
+        "Cyclic Dependency": 0,
+        "API Gateway": 0,
+        "ISI": 0
+    },
+    "apigateway": false
+}

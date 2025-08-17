@@ -1,0 +1,203 @@
+{
+    "unversionedAPIContext": {
+        "unversionedAPIs": [
+            "/vets",
+            "",
+            "/owners",
+            "/owners/{ownerId}/pets",
+            "/petTypes",
+            "pets/visits",
+            "/owners/*/pets/{petId}",
+            "owners/*/pets/{petId}/visits",
+            "owners/*/pets/{petId}"
+        ],
+        "count": 9
+    },
+    "hardCodedEndpointsContext": {
+        "hardcodedEndpoints": [],
+        "totalHardcodedEndpoints": 0,
+        "totalHardcodedPorts": 0,
+        "totalHardcodedIP": 0
+    },
+    "esbContext": {
+        "candidateESBs": []
+    },
+    "cyclicDependency": false,
+    "sharedPersistencyContext": {
+        "sharedPersistencies": []
+    },
+    "sharedLibraryContext": {
+        "sharedLibraries": {
+            "org.springframework.boot:spring-boot-starter-test": {
+                "library": "org.springframework.boot:spring-boot-starter-test",
+                "microservices": [
+                    "org.springframework.samples.petclinic.discovery:spring-petclinic-discovery-server",
+                    "org.springframework.samples.petclinic.client:spring-petclinic-customers-service",
+                    "org.springframework.samples.petclinic.vets:spring-petclinic-vets-service",
+                    "org.springframework.samples.petclinic.visits:spring-petclinic-visits-service",
+                    "org.springframework.samples.petclinic.config:spring-petclinic-config-server",
+                    "org.springframework.samples.petclinic.api:spring-petclinic-api-gateway"
+                ],
+                "count": 6
+            },
+            "org.jolokia:jolokia-core": {
+                "library": "org.jolokia:jolokia-core",
+                "microservices": [
+                    "org.springframework.samples.petclinic.admin:spring-petclinic-admin-server",
+                    "org.springframework.samples.petclinic.config:spring-petclinic-config-server"
+                ],
+                "count": 2
+            },
+            "org.springframework.cloud:spring-cloud-starter-config": {
+                "library": "org.springframework.cloud:spring-cloud-starter-config",
+                "microservices": [
+                    "org.springframework.samples.petclinic.client:spring-petclinic-customers-service",
+                    "org.springframework.samples.petclinic.discovery:spring-petclinic-discovery-server",
+                    "org.springframework.samples.petclinic.vets:spring-petclinic-vets-service",
+                    "org.springframework.samples.petclinic.admin:spring-petclinic-admin-server",
+                    "org.springframework.samples.petclinic.visits:spring-petclinic-visits-service",
+                    "org.springframework.samples.petclinic.api:spring-petclinic-api-gateway"
+                ],
+                "count": 6
+            },
+            "org.springframework.boot:spring-boot-configuration-processor": {
+                "library": "org.springframework.boot:spring-boot-configuration-processor",
+                "microservices": [
+                    "org.springframework.samples.petclinic.vets:spring-petclinic-vets-service",
+                    "org.springframework.samples.petclinic.api:spring-petclinic-api-gateway"
+                ],
+                "count": 2
+            },
+            "org.springframework.boot:spring-boot-starter-actuator": {
+                "library": "org.springframework.boot:spring-boot-starter-actuator",
+                "microservices": [
+                    "org.springframework.samples.petclinic.client:spring-petclinic-customers-service",
+                    "org.springframework.samples.petclinic.vets:spring-petclinic-vets-service",
+                    "org.springframework.samples.petclinic.visits:spring-petclinic-visits-service",
+                    "org.springframework.samples.petclinic.api:spring-petclinic-api-gateway"
+                ],
+                "count": 4
+            },
+            "org.springframework.boot:spring-boot-starter-web": {
+                "library": "org.springframework.boot:spring-boot-starter-web",
+                "microservices": [
+                    "org.springframework.samples.petclinic.vets:spring-petclinic-vets-service",
+                    "org.springframework.samples.petclinic.visits:spring-petclinic-visits-service"
+                ],
+                "count": 2
+            }
+        }
+    },
+    "microservicesGreedyContext": {
+        "microserviceMetrics": [
+            {
+                "path": "/opt/projects/spring-petclinic-microservices/docker",
+                "staticFileCount": 1,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/spring-petclinic-microservices/spring-petclinic-config-server",
+                "staticFileCount": 2,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/spring-petclinic-microservices/spring-petclinic-discovery-server",
+                "staticFileCount": 0,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/spring-petclinic-microservices/spring-petclinic-genai-service",
+                "staticFileCount": 1,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/spring-petclinic-microservices/docs",
+                "staticFileCount": 0,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/spring-petclinic-microservices/spring-petclinic-admin-server",
+                "staticFileCount": 0,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/spring-petclinic-microservices/spring-petclinic-vets-service",
+                "staticFileCount": 1,
+                "entityFileCount": 2
+            },
+            {
+                "path": "/opt/projects/spring-petclinic-microservices/spring-petclinic-api-gateway",
+                "staticFileCount": 67,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/spring-petclinic-microservices/.mvn",
+                "staticFileCount": 0,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/spring-petclinic-microservices/scripts",
+                "staticFileCount": 11,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/spring-petclinic-microservices/.github",
+                "staticFileCount": 0,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/spring-petclinic-microservices/spring-petclinic-customers-service",
+                "staticFileCount": 0,
+                "entityFileCount": 3
+            },
+            {
+                "path": "/opt/projects/spring-petclinic-microservices/spring-petclinic-visits-service",
+                "staticFileCount": 0,
+                "entityFileCount": 1
+            },
+            {
+                "path": "/opt/projects/spring-petclinic-microservices/.git",
+                "staticFileCount": 0,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/spring-petclinic-microservices/.vscode",
+                "staticFileCount": 1,
+                "entityFileCount": 0
+            }
+        ],
+        "greedyMicroservices": []
+    },
+    "wrongCutsContext": {
+        "entityCounts": [],
+        "possibleWrongCuts": []
+    },
+    "inappropriateServiceIntimacyContext": {
+        "sharedIntimacies": [],
+        "count": 0
+    },
+    "tooManyStandardsContext": {
+        "presentationTypes": [
+            "STATIC"
+        ],
+        "businessTypes": [
+            "SPRING"
+        ],
+        "dataTypes": []
+    },
+    "times": {
+        "Too Many Standards": 766,
+        "Wrong Cuts": 251,
+        "Bytecode Analysis": 0,
+        "Shared Persistency": 253,
+        "Shared Library": 284,
+        "ESB": 0,
+        "Microservice Greedy": 849,
+        "Unversioned API": 499,
+        "Hardcoded Enpoints": 0,
+        "Cyclic Dependency": 0,
+        "API Gateway": 0,
+        "ISI": 0
+    },
+    "apigateway": false
+}

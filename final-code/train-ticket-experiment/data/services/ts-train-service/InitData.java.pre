@@ -1,0 +1,61 @@
+VAR VAR.VAR;
+
+VAR VAR.VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR;
+VAR VAR.VAR.VAR;
+
+
+@VAR
+VAR VAR VAR VAR VAR {
+
+    @VAR
+    VAR VAR;
+
+    @VAR
+    VAR VAR VAR(VAR... VAR) VAR VAR {
+        VAR VAR = VAR VAR();
+
+        VAR.VAR("VAR");
+        VAR.VAR(VAR.VAR);
+        VAR.VAR(VAR.VAR);
+        VAR.VAR(250);
+        VAR.VAR(VAR, VAR);
+
+        VAR = VAR VAR();
+        VAR.VAR("VAR");
+        VAR.VAR(VAR.VAR);
+        VAR.VAR(VAR.VAR);
+        VAR.VAR(200);
+        VAR.VAR(VAR, VAR);
+
+        VAR = VAR VAR();
+        VAR.VAR("VAR");
+        VAR.VAR(VAR.VAR);
+        VAR.VAR(VAR.VAR);
+        VAR.VAR(180);
+        VAR.VAR(VAR, VAR);
+
+        VAR = VAR VAR();
+        VAR.VAR("VAR");
+        VAR.VAR(VAR.VAR);
+        VAR.VAR(VAR.VAR);
+        VAR.VAR(120);
+        VAR.VAR(VAR, VAR);
+
+        VAR = VAR VAR();
+        VAR.VAR("VAR");
+        VAR.VAR(VAR.VAR);
+        VAR.VAR(VAR.VAR);
+        VAR.VAR(120);
+        VAR.VAR(VAR, VAR);
+
+        VAR = VAR VAR();
+        VAR.VAR("VAR");
+        VAR.VAR(VAR.VAR);
+        VAR.VAR(VAR.VAR);
+        VAR.VAR(90);
+        VAR.VAR(VAR, VAR);
+    }
+}

@@ -1,0 +1,2 @@
+file,class,method,variable,usage
+/Users/alikhan/git/nui-mcs/Capstone Project/work/microsmellbert/spring-petclinic-microservices-experiment/../spring-petclinic-microservices/spring-petclinic-discovery-server/src/main/java/org/springframework/samples/petclinic/discovery/DiscoveryServerApplication.java,org.springframework.samples.petclinic.discovery.DiscoveryServerApplication,main/1[java.lang.String[]],args,1

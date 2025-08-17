@@ -1,0 +1,32 @@
+@RELATION code_smells_extended
+
+@ATTRIBUTE loc NUMERIC
+@ATTRIBUTE wmc NUMERIC
+@ATTRIBUTE cbo NUMERIC
+@ATTRIBUTE lcom NUMERIC
+@ATTRIBUTE rfc NUMERIC
+@ATTRIBUTE noc NUMERIC
+@ATTRIBUTE totalmethodsqty NUMERIC
+@ATTRIBUTE totalfieldsqty NUMERIC
+@ATTRIBUTE is_functional_decomposition {yes,no}
+@ATTRIBUTE is_data_class {yes,no}
+@ATTRIBUTE is_lazy_class {yes,no}
+@ATTRIBUTE is_spaghetti {yes,no}
+@ATTRIBUTE is_swiss_army_knife {yes,no}
+@ATTRIBUTE is_blob {yes,no}
+@ATTRIBUTE has_long_method {yes,no}
+@ATTRIBUTE has_long_parameter_list {yes,no}
+
+@DATA
+6,4,3,6,0,0,4,0,no,no,no,no,no,no,no,no
+8,2,11,1,2,0,2,0,no,no,yes,no,no,no,no,no
+8,6,4,15,0,0,6,0,no,no,no,no,no,no,no,no
+19,3,13,3,15,0,3,2,no,no,no,no,no,no,no,no
+16,2,4,0,2,0,2,8,no,no,no,no,no,no,no,no
+28,6,1,0,3,0,4,2,no,no,no,no,no,no,no,no
+5,1,1,0,6,0,1,0,no,no,yes,no,no,no,no,no
+120,26,15,0,43,0,9,5,no,no,no,no,no,no,no,no
+19,4,13,0,9,0,4,2,no,no,no,no,no,no,no,no
+49,9,8,2,9,0,8,15,no,no,no,no,no,no,no,no
+48,8,10,2,12,0,4,6,no,no,no,no,no,no,no,no
+2,0,0,0,0,0,0,0,no,no,yes,no,no,no,no,no

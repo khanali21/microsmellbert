@@ -1,0 +1,73 @@
+VAR VAR.VAR;
+
+VAR VAR.VAR.VAR;
+VAR VAR.VAR.VAR;
+VAR VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR.*;
+
+
+@VAR
+@VAR("/VAR/VAR/VAR")
+VAR VAR VAR {
+
+    @VAR
+    VAR VAR;
+
+    @VAR
+    VAR VAR;
+
+    @VAR("${VAR}")
+    VAR VAR;
+
+    @VAR(VAR = "/VAR")
+    VAR VAR VAR() {
+        VAR "VAR VAR [ VAR VAR ] !";
+    }
+
+    @VAR("/VAR")
+    VAR VAR VAR() {
+        VAR.VAR("VAR");
+        VAR VAR;
+    }
+
+    @VAR("/VAR")
+    VAR VAR VAR() {
+        VAR VAR = VAR VAR();
+        VAR.VAR("VAR VAR 21 09:49:44 VAR 2021");
+        VAR.VAR(VAR);
+        VAR.VAR("VAR");
+        VAR.VAR("VAR");
+        VAR.VAR("111-111-111");
+        VAR.VAR("100");
+        VAR.VAR("1");
+        VAR.VAR("1102");
+        VAR.VAR("VAR VAR 04 07:00:00 VAR 2013");
+        VAR.VAR("VAR");
+
+        VAR.VAR(VAR, VAR);
+        VAR VAR;
+    }
+
+    @VAR(VAR = "/VAR/VAR")
+    VAR VAR VAR(@VAR VAR VAR, @VAR VAR VAR) {
+        VAR VAR.VAR(VAR, VAR);
+    }
+
+    @VAR(VAR = "/VAR/VAR")
+    VAR VAR VAR(@VAR VAR VAR, @VAR VAR VAR) {
+        VAR VAR.VAR(VAR, VAR);
+    }
+
+    @VAR(VAR = "/VAR/VAR")
+    VAR VAR VAR(@VAR VAR VAR, @VAR VAR VAR) {
+        VAR VAR.VAR(VAR, VAR);
+    }
+
+    @VAR(VAR = "/VAR/VAR")
+    VAR VAR VAR(@VAR VAR VAR, @VAR VAR VAR) {
+        VAR VAR.VAR(VAR, VAR);
+    }
+}

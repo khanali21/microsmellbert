@@ -1,0 +1,76 @@
+VAR VAR.VAR;
+
+VAR VAR.VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR;
+VAR VAR.VAR.VAR;
+
+
+@VAR
+VAR VAR VAR VAR VAR {
+
+    @VAR
+    VAR VAR;
+
+    VAR VAR = "VAR";
+    VAR VAR = "VAR";
+    VAR VAR = "VAR";
+    VAR VAR = "VAR";
+
+    @VAR
+    VAR VAR VAR(VAR... VAR)VAR VAR{
+        VAR VAR = VAR VAR();
+
+        VAR.VAR("VAR");
+        VAR.VAR(VAR);
+        VAR.VAR("0b23bd3e-876a-4af3-VAR-VAR");
+        VAR.VAR(VAR);
+        VAR.VAR(VAR);
+        VAR.VAR(VAR);
+        VAR.VAR("2013-05-04 09:51:52"); 
+        VAR.VAR("2013-05-04 15:51:52"); 
+        VAR.VAR(VAR,VAR);
+
+        VAR.VAR("VAR");
+        VAR.VAR(VAR);
+        VAR.VAR("9fc9c261-3263-4bfa-82f8-VAR");
+        VAR.VAR(VAR);
+        VAR.VAR(VAR);
+        VAR.VAR(VAR);
+        VAR.VAR("2013-05-04 11:31:52"); 
+        VAR.VAR("2013-05-04 17:51:52"); 
+        VAR.VAR(VAR,VAR);
+
+        VAR.VAR("VAR");
+        VAR.VAR(VAR);
+        VAR.VAR("VAR-VAR-4a3c-VAR-600b43f62c68");
+        VAR.VAR(VAR);
+        VAR.VAR(VAR);
+        VAR.VAR(VAR);
+        VAR.VAR("2013-05-04 7:05:52"); 
+        VAR.VAR("2013-05-04 12:51:52"); 
+        VAR.VAR(VAR,VAR);
+
+        VAR.VAR("VAR");
+        VAR.VAR("VAR");
+        VAR.VAR("20eb7122-3a11-423f-VAR-VAR");
+        VAR.VAR(VAR);
+        VAR.VAR(VAR);
+        VAR.VAR(VAR);
+        VAR.VAR("2013-05-04 08:31:52"); 
+        VAR.VAR("2013-05-04 17:21:52"); 
+        VAR.VAR(VAR,VAR);
+
+        VAR.VAR("VAR");
+        VAR.VAR("VAR");
+        VAR.VAR("1367db1f-461e-4ab7-87ad-2bcc05fd9cb7");
+        VAR.VAR(VAR);
+        VAR.VAR(VAR);
+        VAR.VAR(VAR);
+        VAR.VAR("2013-05-04 07:51:52"); 
+        VAR.VAR("2013-05-04 19:59:52"); 
+        VAR.VAR(VAR,VAR);
+    }
+}

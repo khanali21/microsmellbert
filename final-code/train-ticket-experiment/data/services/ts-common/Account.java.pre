@@ -1,0 +1,39 @@
+VAR VAR.VAR.VAR.VAR;
+
+VAR VAR.VAR;
+VAR VAR.VAR;
+
+VAR VAR.VAR.VAR;
+
+
+@VAR
+VAR VAR VAR {
+
+    VAR VAR VAR;
+
+    VAR VAR VAR;
+
+    VAR VAR VAR;
+
+    VAR VAR VAR;
+
+    VAR VAR VAR;
+
+    VAR VAR VAR;
+
+    VAR VAR VAR;
+
+    VAR VAR VAR;
+
+    VAR VAR VAR;
+
+    VAR VAR(){
+        VAR = VAR.VAR.VAR();
+        VAR = "VAR"; 
+        VAR = "VAR";
+        VAR = VAR.VAR.VAR();
+        VAR = "0123456789";
+        VAR = "0123456789";
+    }
+
+}

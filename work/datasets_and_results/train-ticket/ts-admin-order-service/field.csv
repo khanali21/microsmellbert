@@ -1,0 +1,15 @@
+file,class,method,variable,usage
+/data/adminorder/controller/AdminOrderController.java,adminorder.controller.AdminOrderController,getAllOrders/1[adminorder.controller.HttpHeaders],adminOrderService,1
+/data/adminorder/controller/AdminOrderController.java,adminorder.controller.AdminOrderController,getAllOrders/1[adminorder.controller.HttpHeaders],logger,1
+/data/adminorder/controller/AdminOrderController.java,adminorder.controller.AdminOrderController,"updateOrder/2[adminorder.controller.Order,adminorder.controller.HttpHeaders]",adminOrderService,1
+/data/adminorder/controller/AdminOrderController.java,adminorder.controller.AdminOrderController,"updateOrder/2[adminorder.controller.Order,adminorder.controller.HttpHeaders]",logger,1
+/data/adminorder/controller/AdminOrderController.java,adminorder.controller.AdminOrderController,"deleteOrder/3[java.lang.String,java.lang.String,adminorder.controller.HttpHeaders]",adminOrderService,1
+/data/adminorder/controller/AdminOrderController.java,adminorder.controller.AdminOrderController,"deleteOrder/3[java.lang.String,java.lang.String,adminorder.controller.HttpHeaders]",logger,1
+/data/adminorder/controller/AdminOrderController.java,adminorder.controller.AdminOrderController,"addOrder/2[adminorder.controller.Order,adminorder.controller.HttpHeaders]",adminOrderService,1
+/data/adminorder/controller/AdminOrderController.java,adminorder.controller.AdminOrderController,"addOrder/2[adminorder.controller.Order,adminorder.controller.HttpHeaders]",logger,1
+/data/adminorder/service/AdminOrderServiceImpl.java,adminorder.service.AdminOrderServiceImpl,"deleteOrder/3[java.lang.String,java.lang.String,adminorder.service.HttpHeaders]",restTemplate,2
+/data/adminorder/service/AdminOrderServiceImpl.java,adminorder.service.AdminOrderServiceImpl,"updateOrder/2[adminorder.service.Order,adminorder.service.HttpHeaders]",restTemplate,2
+/data/adminorder/service/AdminOrderServiceImpl.java,adminorder.service.AdminOrderServiceImpl,"updateOrder/2[adminorder.service.Order,adminorder.service.HttpHeaders]",LOGGER,1
+/data/adminorder/service/AdminOrderServiceImpl.java,adminorder.service.AdminOrderServiceImpl,getAllOrders/1[adminorder.service.HttpHeaders],restTemplate,2
+/data/adminorder/service/AdminOrderServiceImpl.java,adminorder.service.AdminOrderServiceImpl,"addOrder/2[adminorder.service.Order,adminorder.service.HttpHeaders]",restTemplate,2
+/data/adminorder/service/AdminOrderServiceImpl.java,adminorder.service.AdminOrderServiceImpl,"addOrder/2[adminorder.service.Order,adminorder.service.HttpHeaders]",LOGGER,1

@@ -1,0 +1,8 @@
+service,cbo_mean,wmc_mean,dit_mean,noc_mean,rfc_mean,lcom_mean,loc_mean,fanin_mean,fanout_mean,tcc_mean,lcc_mean,num_classes
+spring-petclinic-api-gateway,5.333333333333333,1.5555555555555556,1.0,0.0,6.333333333333333,1.3333333333333333,10.11111111111111,1.3333333333333333,5.333333333333333,-0.5,-0.5,9
+spring-petclinic-customers-service,7.818181818181818,2.0,1.2727272727272727,0.0,5.454545454545454,1.4545454545454546,12.363636363636363,1.8181818181818181,7.818181818181818,-0.2857142857142857,-0.2857142857142857,11
+spring-petclinic-vets-service,5.125,0.875,1.0,0.0,0.875,0.75,6.625,0.75,5.125,-0.8333333333333334,-0.8333333333333334,8
+spring-petclinic-visits-service,7.0,1.2,1.0,0.0,1.2,0.2,7.2,1.0,7.0,-0.25,-0.25,5
+spring-petclinic-admin-server,4.0,1.0,1.0,0.0,1.0,0.0,5.0,1.0,4.0,,,1
+spring-petclinic-config-server,3.0,1.0,1.0,0.0,1.0,0.0,5.0,1.0,3.0,,,1
+spring-petclinic-discovery-server,3.0,1.0,1.0,0.0,1.0,0.0,5.0,1.0,3.0,,,1

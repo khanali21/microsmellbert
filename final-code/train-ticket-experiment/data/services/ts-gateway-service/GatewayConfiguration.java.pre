@@ -1,0 +1,94 @@
+VAR VAR;
+
+VAR VAR.VAR.VAR.VAR.VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR.VAR.VAR;
+
+VAR VAR.VAR.VAR;
+VAR VAR.VAR.*;
+
+
+
+@VAR
+VAR VAR VAR {
+
+    VAR VAR VAR<VAR> VAR;
+    VAR VAR VAR VAR;
+
+    VAR VAR(VAR<VAR<VAR>> VAR,
+                                VAR VAR) {
+        VAR.VAR = VAR.VAR(VAR::VAR);
+        VAR.VAR = VAR;
+    }
+
+
+    
+    @VAR
+    @VAR(VAR.VAR)
+    VAR VAR VAR() {
+        
+        VAR VAR VAR(VAR, VAR);
+    }
+
+    
+    @VAR
+    @VAR(-1)
+    VAR VAR VAR() {
+        VAR VAR VAR();
+    }
+
+    
+    @VAR
+    VAR VAR VAR() {
+        VAR();
+
+
+        VAR.VAR.VAR("===== VAR VAR VAR VAR VAR");
+        VAR.VAR.VAR("VAR 20 VAR VAR VAR VAR VAR");
+    }
+
+    
+    VAR VAR VAR() {
+        VAR VAR = (VAR, VAR) -> {
+            VAR<VAR, VAR> VAR = VAR VAR<>();
+            VAR.VAR("VAR", 0);
+            VAR.VAR("VAR", "接口被限流了");
+            VAR VAR.VAR(VAR.VAR).
+                    VAR(VAR.VAR).
+                    VAR(VAR.VAR(VAR));
+        };
+        VAR.VAR(VAR);
+    }
+
+
+    
+    VAR VAR VAR() {
+        VAR<VAR> VAR = VAR VAR<>();
+
+        
+        
+        VAR.VAR(VAR VAR("VAR-VAR-VAR") 
+                .VAR(VAR.VAR)
+                .VAR(20) 
+                .VAR(1) 
+        );
+
+        VAR.VAR(VAR);
+    }
+}

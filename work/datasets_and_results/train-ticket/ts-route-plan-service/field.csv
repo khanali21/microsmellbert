@@ -1,0 +1,9 @@
+file,class,method,variable,usage
+/data/plan/service/RoutePlanServiceImpl.java,plan.service.RoutePlanServiceImpl,"getRouteByRouteId/2[java.lang.String,plan.service.HttpHeaders]",restTemplate,1
+/data/plan/service/RoutePlanServiceImpl.java,plan.service.RoutePlanServiceImpl,"getStationList/2[java.lang.String,plan.service.HttpHeaders]",restTemplate,1
+/data/plan/service/RoutePlanServiceImpl.java,plan.service.RoutePlanServiceImpl,"getTripFromHighSpeedTravelServive/2[plan.service.TripInfo,plan.service.HttpHeaders]",restTemplate,1
+/data/plan/service/RoutePlanServiceImpl.java,plan.service.RoutePlanServiceImpl,"getTripFromNormalTrainTravelService/2[plan.service.TripInfo,plan.service.HttpHeaders]",restTemplate,1
+/data/plan/service/RoutePlanServiceImpl.java,plan.service.RoutePlanServiceImpl,"searchMinStopStations/2[plan.service.RoutePlanInfo,plan.service.HttpHeaders]",restTemplate,4
+/data/plan/controller/RoutePlanController.java,plan.controller.RoutePlanController,"getQuickestRoutes/2[plan.controller.RoutePlanInfo,plan.controller.HttpHeaders]",routePlanService,1
+/data/plan/controller/RoutePlanController.java,plan.controller.RoutePlanController,"getCheapestRoutes/2[plan.controller.RoutePlanInfo,plan.controller.HttpHeaders]",routePlanService,1
+/data/plan/controller/RoutePlanController.java,plan.controller.RoutePlanController,"getMinStopStations/2[plan.controller.RoutePlanInfo,plan.controller.HttpHeaders]",routePlanService,1

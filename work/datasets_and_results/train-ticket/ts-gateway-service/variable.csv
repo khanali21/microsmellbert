@@ -1,0 +1,9 @@
+file,class,method,variable,usage
+/data/gateway/GatewayConfiguration.java,gateway.GatewayConfiguration,initBlockHandlers/0,blockRequestHandler,1
+/data/gateway/GatewayConfiguration.java,gateway.GatewayConfiguration,initBlockHandlers/0,serverWebExchange,0
+/data/gateway/GatewayConfiguration.java,gateway.GatewayConfiguration,initBlockHandlers/0,throwable,0
+/data/gateway/GatewayConfiguration.java,gateway.GatewayConfiguration,initBlockHandlers/0,map,3
+/data/gateway/GatewayConfiguration.java,gateway.GatewayConfiguration,initGatewayRules/0,rules,2
+/data/gateway/GatewayConfiguration.java,gateway.GatewayConfiguration,"GatewayConfiguration/2[gateway.ObjectProvider<java.util.List<gateway.ViewResolver>>,gateway.ServerCodecConfigurer]",viewResolversProvider,1
+/data/gateway/GatewayConfiguration.java,gateway.GatewayConfiguration,"GatewayConfiguration/2[gateway.ObjectProvider<java.util.List<gateway.ViewResolver>>,gateway.ServerCodecConfigurer]",serverCodecConfigurer,2
+/data/gateway/GatewayApplication.java,gateway.GatewayApplication,main/1[java.lang.String[]],args,1

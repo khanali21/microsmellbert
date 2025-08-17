@@ -1,0 +1,84 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.functions.SMO -C 1.0 -L 0.001 -P 1.0E-12 -N 0 -V -1 -W 1 -K "weka.classifiers.functions.supportVector.PolyKernel -E 1.0 -C 250007" -calibrator "weka.classifiers.functions.Logistic -R 1.0E-8 -M -1 -num-decimal-places 4"
+Relation:     code_smells_extended
+Instances:    4059
+Attributes:   16
+              loc
+              wmc
+              cbo
+              lcom
+              rfc
+              noc
+              totalmethodsqty
+              totalfieldsqty
+              is_functional_decomposition
+              is_data_class
+              is_lazy_class
+              is_spaghetti
+              is_swiss_army_knife
+              is_blob
+              has_long_method
+              has_long_parameter_list
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+SMO
+
+Kernel used:
+  Linear Kernel: K(x,y) = <x,y>
+
+Classifier for classes: yes, no
+
+BinarySMO
+
+Machine linear: showing attribute weights, not support vectors.
+
+         8.677  * (normalized) loc
+ +       4.0334 * (normalized) wmc
+ +      -0.0246 * (normalized) cbo
+ +       1.2378 * (normalized) lcom
+ +       3.6923 * (normalized) rfc
+ +       1.2353 * (normalized) noc
+ +      13.9892 * (normalized) totalmethodsqty
+ +      25.7157 * (normalized) totalfieldsqty
+ +      -0.6502 * (normalized) is_functional_decomposition=no
+ +       0      * (normalized) is_data_class=no
+ +       0      * (normalized) is_spaghetti=no
+ +       0      * (normalized) is_blob=no
+ +      -0.853  * (normalized) has_long_method=no
+ +      -1.0409 * (normalized) has_long_parameter_list=no
+ +       1.3737
+
+Number of kernel evaluations: 223419 (61.558% cached)
+
+
+
+Time taken to build model: 0.06 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances        3338               82.237  %
+Incorrectly Classified Instances       721               17.763  %
+Kappa statistic                          0.6528
+Mean absolute error                      0.1776
+Root mean squared error                  0.4215
+Relative absolute error                 35.845  %
+Root relative squared error             84.6701 %
+Total Number of Instances             4059     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.991    0.317    0.721      0.991    0.835      0.692    0.837     0.719     yes
+                 0.683    0.009    0.990      0.683    0.808      0.692    0.837     0.849     no
+Weighted Avg.    0.822    0.148    0.868      0.822    0.820      0.692    0.837     0.790     
+
+=== Confusion Matrix ===
+
+    a    b   <-- classified as
+ 1822   16 |    a = yes
+  705 1516 |    b = no
+

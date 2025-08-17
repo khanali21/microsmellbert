@@ -1,0 +1,73 @@
+@RELATION code_smells_extended
+
+@ATTRIBUTE loc NUMERIC
+@ATTRIBUTE wmc NUMERIC
+@ATTRIBUTE cbo NUMERIC
+@ATTRIBUTE lcom NUMERIC
+@ATTRIBUTE rfc NUMERIC
+@ATTRIBUTE noc NUMERIC
+@ATTRIBUTE totalmethodsqty NUMERIC
+@ATTRIBUTE totalfieldsqty NUMERIC
+@ATTRIBUTE is_functional_decomposition {yes,no}
+@ATTRIBUTE is_data_class {yes,no}
+@ATTRIBUTE is_lazy_class {yes,no}
+@ATTRIBUTE is_spaghetti {yes,no}
+@ATTRIBUTE is_swiss_army_knife {yes,no}
+@ATTRIBUTE is_blob {yes,no}
+@ATTRIBUTE has_long_method {yes,no}
+@ATTRIBUTE has_long_parameter_list {yes,no}
+
+@DATA
+12,2,1,1,0,0,2,3,no,no,no,no,no,no,no,no
+8,2,0,1,0,1,2,0,no,no,yes,no,no,no,no,no
+14,3,3,3,1,0,3,4,no,no,no,no,no,no,no,no
+9,1,3,0,0,0,1,4,no,no,no,no,no,no,no,no
+6,1,2,0,0,0,1,2,no,no,yes,no,no,no,no,no
+9,1,2,0,0,0,1,5,no,no,no,no,no,no,no,no
+5,0,5,0,0,0,0,3,no,no,no,no,no,no,no,no
+20,3,1,1,0,0,3,5,no,no,no,no,no,no,no,no
+43,9,4,13,9,0,6,1,no,no,no,no,no,no,no,no
+16,3,5,0,1,0,3,3,no,no,no,no,no,no,no,no
+38,10,1,4,2,0,8,3,no,no,no,no,no,no,no,no
+13,0,3,0,0,0,0,11,no,yes,no,no,no,no,no,no
+11,0,3,0,0,0,0,9,no,yes,no,no,no,no,no,no
+32,8,1,0,2,0,6,2,no,no,no,no,no,no,no,no
+7,1,4,0,0,0,1,3,no,no,no,no,no,no,no,no
+6,0,5,0,0,0,0,4,no,no,no,no,no,no,no,no
+26,6,1,0,3,0,4,2,no,no,no,no,no,no,no,no
+8,1,1,0,0,0,1,4,no,no,no,no,no,no,no,no
+11,1,2,0,0,0,1,7,no,no,no,no,no,no,no,no
+9,0,4,0,0,0,0,7,no,no,no,no,no,no,no,no
+14,1,1,0,0,0,1,10,no,yes,no,no,no,no,no,no
+32,8,2,1,3,0,3,2,no,no,no,no,no,no,no,no
+12,2,3,1,0,0,2,5,no,no,no,no,no,no,no,no
+6,1,1,0,0,0,1,2,no,no,yes,no,no,no,no,no
+11,2,8,1,14,0,2,2,no,no,yes,no,no,no,no,no
+7,1,2,0,0,0,1,3,no,no,no,no,no,no,no,no
+5,0,3,0,0,0,0,3,no,no,no,no,no,no,no,no
+8,1,2,0,0,0,1,4,no,no,no,no,no,no,no,no
+11,1,1,0,0,0,1,7,no,no,no,no,no,no,no,no
+8,2,4,1,0,0,2,1,no,no,yes,no,no,no,no,no
+29,6,1,0,3,0,4,2,no,no,no,no,no,no,no,no
+6,1,2,0,0,0,1,2,no,no,yes,no,no,no,no,no
+26,7,5,1,9,0,2,6,no,no,no,no,no,no,no,no
+11,0,3,0,0,0,0,9,no,yes,no,no,no,no,no,no
+16,2,2,1,2,0,2,6,no,no,no,no,no,no,no,no
+5,1,1,0,0,0,1,0,no,no,yes,no,no,no,no,no
+36,3,3,0,1,0,3,9,no,no,no,no,no,no,no,yes
+28,7,0,3,6,0,3,0,no,no,no,no,no,no,no,no
+24,3,2,0,2,0,3,5,no,no,no,no,no,no,no,no
+23,7,1,21,6,0,7,0,no,no,no,no,no,no,no,no
+81,16,10,17,21,0,7,2,yes,no,no,no,no,no,no,no
+27,2,5,1,1,0,2,19,no,yes,no,no,no,no,no,no
+13,2,4,0,1,0,2,3,no,no,no,no,no,no,no,no
+24,1,1,0,0,0,1,11,no,yes,no,no,no,no,no,no
+31,6,1,0,3,0,4,2,no,no,no,no,no,no,no,no
+19,1,3,0,2,0,1,9,no,yes,no,no,no,no,no,no
+14,3,3,3,1,0,3,4,no,no,no,no,no,no,no,no
+12,2,6,0,5,0,1,0,no,no,yes,no,no,no,no,no
+19,4,1,0,2,0,4,3,no,no,no,no,no,no,no,no
+26,6,1,0,3,0,4,2,no,no,no,no,no,no,no,no
+18,1,4,0,0,0,1,7,no,no,no,no,no,no,no,no
+50,11,7,1,22,0,3,17,no,no,no,no,no,no,no,no
+23,1,4,0,0,0,1,10,no,yes,no,no,no,no,no,no

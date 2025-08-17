@@ -1,0 +1,6 @@
+file,class,method,variable,usage
+/data/seat/controller/SeatController.java,seat.controller.SeatController,"create/2[seat.controller.Seat,seat.controller.HttpHeaders]",seatService,1
+/data/seat/controller/SeatController.java,seat.controller.SeatController,"getLeftTicketOfInterval/2[seat.controller.Seat,seat.controller.HttpHeaders]",seatService,1
+/data/seat/service/SeatServiceImpl.java,seat.service.SeatServiceImpl,"distributeSeat/2[seat.service.Seat,seat.service.HttpHeaders]",restTemplate,2
+/data/seat/service/SeatServiceImpl.java,seat.service.SeatServiceImpl,"getLeftTicketOfInterval/2[seat.service.Seat,seat.service.HttpHeaders]",restTemplate,2
+/data/seat/service/SeatServiceImpl.java,seat.service.SeatServiceImpl,getDirectProportion/1[seat.service.HttpHeaders],restTemplate,1

@@ -1,0 +1,15 @@
+file,class,method,variable,usage
+/data/adminuser/controller/AdminUserController.java,adminuser.controller.AdminUserController,getAllUsers/1[adminuser.controller.HttpHeaders],adminUserService,1
+/data/adminuser/controller/AdminUserController.java,adminuser.controller.AdminUserController,getAllUsers/1[adminuser.controller.HttpHeaders],logger,1
+/data/adminuser/controller/AdminUserController.java,adminuser.controller.AdminUserController,"addUser/2[adminuser.dto.UserDto,adminuser.controller.HttpHeaders]",adminUserService,1
+/data/adminuser/controller/AdminUserController.java,adminuser.controller.AdminUserController,"addUser/2[adminuser.dto.UserDto,adminuser.controller.HttpHeaders]",logger,1
+/data/adminuser/controller/AdminUserController.java,adminuser.controller.AdminUserController,"updateUser/2[adminuser.dto.UserDto,adminuser.controller.HttpHeaders]",adminUserService,1
+/data/adminuser/controller/AdminUserController.java,adminuser.controller.AdminUserController,"updateUser/2[adminuser.dto.UserDto,adminuser.controller.HttpHeaders]",logger,1
+/data/adminuser/controller/AdminUserController.java,adminuser.controller.AdminUserController,"deleteUser/2[java.lang.String,adminuser.controller.HttpHeaders]",adminUserService,1
+/data/adminuser/controller/AdminUserController.java,adminuser.controller.AdminUserController,"deleteUser/2[java.lang.String,adminuser.controller.HttpHeaders]",logger,1
+/data/adminuser/service/AdminUserServiceImpl.java,adminuser.service.AdminUserServiceImpl,getAllUsers/1[adminuser.service.HttpHeaders],restTemplate,1
+/data/adminuser/service/AdminUserServiceImpl.java,adminuser.service.AdminUserServiceImpl,"deleteUser/2[java.lang.String,adminuser.service.HttpHeaders]",restTemplate,1
+/data/adminuser/service/AdminUserServiceImpl.java,adminuser.service.AdminUserServiceImpl,"addUser/2[adminuser.dto.UserDto,adminuser.service.HttpHeaders]",restTemplate,1
+/data/adminuser/service/AdminUserServiceImpl.java,adminuser.service.AdminUserServiceImpl,"addUser/2[adminuser.dto.UserDto,adminuser.service.HttpHeaders]",LOGGER,1
+/data/adminuser/service/AdminUserServiceImpl.java,adminuser.service.AdminUserServiceImpl,"updateUser/2[adminuser.dto.UserDto,adminuser.service.HttpHeaders]",restTemplate,1
+/data/adminuser/service/AdminUserServiceImpl.java,adminuser.service.AdminUserServiceImpl,"updateUser/2[adminuser.dto.UserDto,adminuser.service.HttpHeaders]",LOGGER,1

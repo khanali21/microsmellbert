@@ -1,0 +1,12 @@
+file,class,method,variable,usage
+/data/trainFood/init/InitData.java,trainFood.init.InitData,run/1[java.lang.String[]],trainFoodService,1
+/data/trainFood/entity/TrainFood.java,trainFood.entity.TrainFood,TrainFood/0,tripId,1
+/data/trainFood/controller/TrainFoodController.java,trainFood.controller.TrainFoodController,"getTrainFoodOfTrip/2[java.lang.String,trainFood.controller.HttpHeaders]",trainFoodService,1
+/data/trainFood/controller/TrainFoodController.java,trainFood.controller.TrainFoodController,getAllTrainFood/1[trainFood.controller.HttpHeaders],trainFoodService,1
+/data/trainFood/service/TrainFoodServiceImpl.java,trainFood.service.TrainFoodServiceImpl,listTrainFood/1[trainFood.service.HttpHeaders],noContent,2
+/data/trainFood/service/TrainFoodServiceImpl.java,trainFood.service.TrainFoodServiceImpl,listTrainFood/1[trainFood.service.HttpHeaders],success,1
+/data/trainFood/service/TrainFoodServiceImpl.java,trainFood.service.TrainFoodServiceImpl,listTrainFood/1[trainFood.service.HttpHeaders],trainFoodRepository,1
+/data/trainFood/service/TrainFoodServiceImpl.java,trainFood.service.TrainFoodServiceImpl,"createTrainFood/2[trainFood.entity.TrainFood,trainFood.service.HttpHeaders]",trainFoodRepository,3
+/data/trainFood/service/TrainFoodServiceImpl.java,trainFood.service.TrainFoodServiceImpl,"listTrainFoodByTripId/2[java.lang.String,trainFood.service.HttpHeaders]",noContent,1
+/data/trainFood/service/TrainFoodServiceImpl.java,trainFood.service.TrainFoodServiceImpl,"listTrainFoodByTripId/2[java.lang.String,trainFood.service.HttpHeaders]",success,1
+/data/trainFood/service/TrainFoodServiceImpl.java,trainFood.service.TrainFoodServiceImpl,"listTrainFoodByTripId/2[java.lang.String,trainFood.service.HttpHeaders]",trainFoodRepository,1

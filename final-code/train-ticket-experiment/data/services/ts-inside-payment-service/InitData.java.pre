@@ -1,0 +1,39 @@
+VAR VAR.VAR;
+
+VAR VAR.VAR.*;
+VAR VAR.VAR.VAR;
+VAR VAR.VAR.VAR;
+VAR VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR;
+
+
+@VAR
+VAR VAR VAR VAR VAR {
+    @VAR
+    VAR VAR;
+
+    @VAR
+    VAR VAR;
+
+    @VAR
+    VAR VAR;
+
+    @VAR
+    VAR VAR VAR(VAR... VAR) VAR VAR{
+        VAR VAR = VAR VAR();
+        VAR.VAR("4d2a46c7-71cb-4cf1-VAR-VAR");
+        VAR.VAR("10000");
+        VAR.VAR(VAR,VAR);
+
+        VAR VAR = VAR VAR();
+        VAR.VAR("5ad7750ba68b49c0a8c035276b321701");
+        VAR.VAR("5ad7750b-VAR-49c0-VAR-32776b067702");
+        VAR.VAR("100.0");
+        VAR.VAR("4d2a46c7-71cb-4cf1-VAR-VAR");
+        VAR.VAR(VAR.VAR);
+        VAR.VAR(VAR,VAR);
+    }
+}
+

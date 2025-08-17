@@ -1,0 +1,190 @@
+{
+    "unversionedAPIContext": {
+        "unversionedAPIs": [],
+        "count": 0
+    },
+    "hardCodedEndpointsContext": {
+        "hardcodedEndpoints": [],
+        "totalHardcodedEndpoints": 0,
+        "totalHardcodedPorts": 0,
+        "totalHardcodedIP": 0
+    },
+    "esbContext": {
+        "candidateESBs": []
+    },
+    "cyclicDependency": false,
+    "sharedPersistencyContext": {
+        "sharedPersistencies": []
+    },
+    "sharedLibraryContext": {
+        "sharedLibraries": {
+            "${project.groupId}:main": {
+                "library": "${project.groupId}:main",
+                "microservices": [
+                    "null:database",
+                    "null:pc-axis",
+                    "null:benchmark",
+                    "null:wikibase",
+                    "null:server",
+                    "org.openrefine:jython"
+                ],
+                "count": 6
+            },
+            "javax.servlet:javax.servlet-api": {
+                "library": "javax.servlet:javax.servlet-api",
+                "microservices": [
+                    "null:database",
+                    "null:pc-axis",
+                    "null:benchmark",
+                    "null:wikibase",
+                    "null:server",
+                    "null:main",
+                    "null:core",
+                    "org.openrefine:jython"
+                ],
+                "count": 8
+            },
+            "org.openrefine:core": {
+                "library": "org.openrefine:core",
+                "microservices": [
+                    "null:grel",
+                    "null:main"
+                ],
+                "count": 2
+            },
+            "org.testng:testng": {
+                "library": "org.testng:testng",
+                "microservices": [
+                    "null:benchmark",
+                    "null:grel",
+                    "org.openrefine:jython"
+                ],
+                "count": 3
+            },
+            "org.slf4j:slf4j-api": {
+                "library": "org.slf4j:slf4j-api",
+                "microservices": [
+                    "null:server",
+                    "null:grel"
+                ],
+                "count": 2
+            },
+            "com.fasterxml.jackson.core:jackson-databind": {
+                "library": "com.fasterxml.jackson.core:jackson-databind",
+                "microservices": [
+                    "null:database",
+                    "null:pc-axis",
+                    "null:wikibase",
+                    "null:grel",
+                    "null:core"
+                ],
+                "count": 5
+            }
+        }
+    },
+    "microservicesGreedyContext": {
+        "microserviceMetrics": [
+            {
+                "path": "/opt/projects/OpenRefine/benchmark",
+                "staticFileCount": 0,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/OpenRefine/packaging",
+                "staticFileCount": 0,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/OpenRefine/.well-known",
+                "staticFileCount": 0,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/OpenRefine/server",
+                "staticFileCount": 0,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/OpenRefine/extensions",
+                "staticFileCount": 190,
+                "entityFileCount": 16
+            },
+            {
+                "path": "/opt/projects/OpenRefine/IDEs",
+                "staticFileCount": 0,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/OpenRefine/.github",
+                "staticFileCount": 0,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/OpenRefine/.git",
+                "staticFileCount": 0,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/OpenRefine/.vscode",
+                "staticFileCount": 1,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/OpenRefine/graphics",
+                "staticFileCount": 0,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/OpenRefine/main",
+                "staticFileCount": 368,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/OpenRefine/modules",
+                "staticFileCount": 2,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/OpenRefine/conf",
+                "staticFileCount": 0,
+                "entityFileCount": 0
+            },
+            {
+                "path": "/opt/projects/OpenRefine/.idea",
+                "staticFileCount": 0,
+                "entityFileCount": 0
+            }
+        ],
+        "greedyMicroservices": []
+    },
+    "wrongCutsContext": {
+        "entityCounts": [],
+        "possibleWrongCuts": []
+    },
+    "inappropriateServiceIntimacyContext": {
+        "sharedIntimacies": [],
+        "count": 0
+    },
+    "tooManyStandardsContext": {
+        "presentationTypes": [
+            "STATIC"
+        ],
+        "businessTypes": [],
+        "dataTypes": []
+    },
+    "times": {
+        "Too Many Standards": 724,
+        "Wrong Cuts": 239,
+        "Bytecode Analysis": 910,
+        "Shared Persistency": 248,
+        "Shared Library": 445,
+        "ESB": 1,
+        "Microservice Greedy": 6061,
+        "Unversioned API": 9630,
+        "Hardcoded Enpoints": 0,
+        "Cyclic Dependency": 0,
+        "API Gateway": 0,
+        "ISI": 0
+    },
+    "apigateway": false
+}

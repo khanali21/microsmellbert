@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+/data/gateway/GatewayConfiguration.java,gateway.GatewayConfiguration,sentinelGatewayBlockExceptionHandler/0,viewResolvers,1
+/data/gateway/GatewayConfiguration.java,gateway.GatewayConfiguration,sentinelGatewayBlockExceptionHandler/0,serverCodecConfigurer,1
+/data/gateway/GatewayConfiguration.java,gateway.GatewayConfiguration,"GatewayConfiguration/2[gateway.ObjectProvider<java.util.List<gateway.ViewResolver>>,gateway.ServerCodecConfigurer]",viewResolvers,1
+/data/gateway/GatewayConfiguration.java,gateway.GatewayConfiguration,"GatewayConfiguration/2[gateway.ObjectProvider<java.util.List<gateway.ViewResolver>>,gateway.ServerCodecConfigurer]",serverCodecConfigurer,3

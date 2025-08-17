@@ -1,0 +1,102 @@
+
+VAR VAR.VAR.VAR.VAR.VAR.VAR;
+
+VAR VAR.VAR.VAR;
+VAR VAR.VAR.VAR;
+VAR VAR.VAR.VAR;
+VAR VAR.VAR.VAR;
+VAR VAR.VAR.VAR;
+
+VAR VAR.VAR.VAR;
+VAR VAR.VAR.VAR;
+VAR VAR.VAR.VAR;
+VAR VAR.VAR.VAR;
+VAR VAR.VAR.VAR;
+VAR VAR.VAR.VAR;
+VAR VAR.VAR.VAR;
+VAR VAR.VAR.VAR;
+VAR VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR;
+
+VAR VAR.VAR;
+VAR VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR;
+
+
+@VAR
+@VAR(VAR = "VAR")
+VAR VAR VAR {
+
+    @VAR
+    @VAR(VAR = VAR.VAR)
+    @VAR
+    VAR VAR VAR;
+
+    @VAR
+    @VAR
+    @VAR(VAR = "VAR")
+    @VAR
+    VAR VAR VAR;
+
+    @VAR
+    @VAR
+    @VAR(VAR = "VAR")
+    @VAR
+    VAR VAR VAR;
+
+    @VAR
+    @VAR
+    @VAR(VAR = "VAR")
+    @VAR
+    VAR VAR VAR;
+
+    @VAR
+    @VAR
+    @VAR(VAR = "VAR")
+    @VAR
+    VAR VAR VAR;
+
+    @VAR
+    @VAR
+    @VAR(VAR = "VAR")
+    @VAR
+    @VAR(VAR = 0, VAR = 12)
+    VAR VAR VAR;
+
+    @VAR(VAR = VAR.VAR, VAR = VAR.VAR, VAR = "VAR")
+    VAR VAR<VAR> VAR;
+
+    VAR VAR<VAR> VAR() {
+        VAR (VAR.VAR == VAR) {
+            VAR.VAR = VAR VAR<>();
+        }
+        VAR VAR.VAR;
+    }
+
+    VAR VAR<VAR> VAR() {
+        VAR VAR<VAR> VAR = VAR VAR<>(VAR());
+        VAR.VAR(VAR, VAR VAR("VAR", VAR, VAR));
+        VAR VAR.VAR(VAR);
+    }
+
+    VAR VAR VAR(VAR VAR) {
+        VAR().VAR(VAR);
+        VAR.VAR(VAR);
+    }
+
+    @VAR
+    VAR VAR VAR() {
+        VAR VAR VAR(VAR)
+
+            .VAR("VAR", VAR.VAR())
+            .VAR("VAR", VAR.VAR())
+            .VAR("VAR", VAR.VAR())
+            .VAR("VAR", VAR.VAR)
+            .VAR("VAR", VAR.VAR)
+            .VAR("VAR", VAR.VAR)
+            .VAR();
+    }
+}

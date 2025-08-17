@@ -1,0 +1,17 @@
+file,class,method,variable,usage
+/data/fdse/microservice/controller/BasicController.java,fdse.microservice.controller.BasicController,"queryForTravel/2[fdse.microservice.controller.Travel,fdse.microservice.controller.HttpHeaders]",service,1
+/data/fdse/microservice/controller/BasicController.java,fdse.microservice.controller.BasicController,"queryForTravel/2[fdse.microservice.controller.Travel,fdse.microservice.controller.HttpHeaders]",logger,1
+/data/fdse/microservice/controller/BasicController.java,fdse.microservice.controller.BasicController,"queryForTravels/2[java.util.List<fdse.microservice.controller.Travel>,fdse.microservice.controller.HttpHeaders]",service,1
+/data/fdse/microservice/controller/BasicController.java,fdse.microservice.controller.BasicController,"queryForTravels/2[java.util.List<fdse.microservice.controller.Travel>,fdse.microservice.controller.HttpHeaders]",logger,1
+/data/fdse/microservice/controller/BasicController.java,fdse.microservice.controller.BasicController,"queryForStationId/2[java.lang.String,fdse.microservice.controller.HttpHeaders]",service,1
+/data/fdse/microservice/controller/BasicController.java,fdse.microservice.controller.BasicController,"queryForStationId/2[java.lang.String,fdse.microservice.controller.HttpHeaders]",logger,1
+/data/fdse/microservice/service/BasicServiceImpl.java,fdse.microservice.service.BasicServiceImpl,"queryTrainTypeByNames/2[java.util.List<java.lang.String>,fdse.microservice.service.HttpHeaders]",restTemplate,1
+/data/fdse/microservice/service/BasicServiceImpl.java,fdse.microservice.service.BasicServiceImpl,"queryPriceConfigByRouteIdsAndTrainTypes/2[java.util.List<java.lang.String>,fdse.microservice.service.HttpHeaders]",restTemplate,1
+/data/fdse/microservice/service/BasicServiceImpl.java,fdse.microservice.service.BasicServiceImpl,"checkStationsExists/2[java.util.List<java.lang.String>,fdse.microservice.service.HttpHeaders]",restTemplate,1
+/data/fdse/microservice/service/BasicServiceImpl.java,fdse.microservice.service.BasicServiceImpl,"getRoutesByRouteIds/2[java.util.List<java.lang.String>,fdse.microservice.service.HttpHeaders]",restTemplate,1
+/data/fdse/microservice/service/BasicServiceImpl.java,fdse.microservice.service.BasicServiceImpl,"queryForStationId/2[java.lang.String,fdse.microservice.service.HttpHeaders]",restTemplate,1
+/data/fdse/microservice/service/BasicServiceImpl.java,fdse.microservice.service.BasicServiceImpl,"checkStationExists/2[java.lang.String,fdse.microservice.service.HttpHeaders]",restTemplate,1
+/data/fdse/microservice/service/BasicServiceImpl.java,fdse.microservice.service.BasicServiceImpl,"getRouteByRouteId/2[java.lang.String,fdse.microservice.service.HttpHeaders]",restTemplate,1
+/data/fdse/microservice/service/BasicServiceImpl.java,fdse.microservice.service.BasicServiceImpl,"queryTrainTypeByName/2[java.lang.String,fdse.microservice.service.HttpHeaders]",restTemplate,1
+/data/fdse/microservice/service/BasicServiceImpl.java,fdse.microservice.service.BasicServiceImpl,"queryPriceConfigByRouteIdAndTrainType/3[java.lang.String,java.lang.String,fdse.microservice.service.HttpHeaders]",restTemplate,1
+/data/fdse/microservice/service/BasicServiceImpl.java,fdse.microservice.service.BasicServiceImpl,"queryForTravel/2[fdse.microservice.service.Travel,fdse.microservice.service.HttpHeaders]",LOGGER,2

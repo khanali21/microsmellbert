@@ -1,0 +1,3 @@
+service,mega_prob,crudy_prob,ambiguous_prob,mega_pred,crudy_pred,ambiguous_pred
+spring-petclinic-api-gateway,0.52201825,0.5090516,0.49901465,1,1,0
+spring-petclinic-customers-service,0.5350346,0.49823132,0.4836758,1,0,0

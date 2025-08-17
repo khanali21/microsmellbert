@@ -1,0 +1,104 @@
+VAR VAR.VAR.VAR.VAR;
+
+VAR VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR.VAR.VAR.VAR;
+VAR VAR.VAR;
+VAR VAR.VAR;
+VAR VAR.VAR;
+
+VAR VAR.VAR.VAR;
+VAR VAR.VAR.VAR;
+
+
+@VAR
+@VAR(VAR = VAR)
+@VAR
+VAR VAR VAR {
+
+    VAR VAR VAR;
+
+    VAR VAR VAR;
+
+    VAR VAR VAR;
+
+    VAR VAR VAR;
+
+    
+    VAR VAR VAR;
+
+    
+    VAR VAR VAR;
+
+    VAR VAR VAR;
+
+    VAR VAR VAR;
+
+    VAR VAR VAR;
+
+    VAR VAR VAR;
+
+    VAR VAR VAR;
+
+    VAR VAR VAR;
+
+    VAR VAR VAR;
+
+    VAR VAR VAR;
+
+    VAR VAR VAR;
+
+    VAR VAR VAR;
+
+    VAR VAR VAR;
+
+    VAR VAR(){
+        VAR = VAR.VAR(VAR VAR(VAR.VAR()));
+        VAR = VAR.VAR(VAR VAR(123456789));
+        VAR = "VAR";
+        VAR = 5;
+        VAR = VAR.VAR.VAR();
+        VAR = "5A";
+        VAR = "VAR";
+        VAR = "VAR";
+        VAR = VAR.VAR.VAR();
+        VAR = "0.0";
+        VAR ="0.0";
+    }
+
+    VAR VAR VAR(VAR VAR) {
+        VAR (VAR == VAR) {
+            VAR VAR;
+        }
+        VAR (VAR == VAR) {
+            VAR VAR;
+        }
+        VAR (VAR() != VAR.VAR()) {
+            VAR VAR;
+        }
+        VAR VAR = (VAR) VAR;
+        VAR VAR().VAR(VAR.VAR())
+                && VAR().VAR(VAR.VAR())
+                && VAR().VAR(VAR.VAR())
+                && VAR .VAR( VAR.VAR() )
+                && VAR.VAR(VAR.VAR())
+                && VAR.VAR(VAR.VAR())
+                && VAR == VAR.VAR()
+                && VAR.VAR(VAR.VAR())
+                && VAR == VAR.VAR()
+                && VAR == VAR.VAR()
+                && VAR .VAR(VAR.VAR())
+                && VAR.VAR(VAR.VAR())
+                && VAR.VAR(VAR.VAR())
+                && VAR == VAR.VAR()
+                && VAR.VAR(VAR.VAR);
+    }
+
+    @VAR
+    VAR VAR VAR() {
+        VAR VAR = 17;
+        VAR = 31 * VAR + (VAR == VAR ? 0 : VAR.VAR());
+        VAR VAR;
+    }
+
+}

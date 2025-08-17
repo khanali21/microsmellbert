@@ -1,0 +1,100 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.RandomForest -P 100 -I 100 -num-slots 1 -K 0 -M 1.0 -V 0.001 -S 1
+Relation:     code_smells_extended
+Instances:    4059
+Attributes:   57
+              cbo
+              cbomodified
+              fanin
+              fanout
+              wmc
+              dit
+              noc
+              rfc
+              lcom
+              lcom*
+              tcc
+              lcc
+              totalmethodsqty
+              staticmethodsqty
+              publicmethodsqty
+              privatemethodsqty
+              protectedmethodsqty
+              defaultmethodsqty
+              visiblemethodsqty
+              abstractmethodsqty
+              finalmethodsqty
+              synchronizedmethodsqty
+              totalfieldsqty
+              staticfieldsqty
+              publicfieldsqty
+              privatefieldsqty
+              protectedfieldsqty
+              defaultfieldsqty
+              finalfieldsqty
+              synchronizedfieldsqty
+              nosi
+              loc
+              returnqty
+              loopqty
+              comparisonsqty
+              trycatchqty
+              parenthesizedexpsqty
+              stringliteralsqty
+              numbersqty
+              assignmentsqty
+              mathoperationsqty
+              variablesqty
+              maxnestedblocksqty
+              anonymousclassesqty
+              innerclassesqty
+              lambdasqty
+              uniquewordsqty
+              modifiers
+              logstatementsqty
+              is_functional_decomposition
+              is_data_class
+              is_lazy_class
+              has_long_method
+              has_long_parameter_list
+              is_spaghetti
+              is_swiss_army_knife
+              is_blob
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+RandomForest
+
+Bagging with 100 iterations and base learner
+
+weka.classifiers.trees.RandomTree -K 0 -M 1.0 -V 0.001 -S 1 -do-not-check-capabilities
+
+Time taken to build model: 0.14 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances        4055               99.9015 %
+Incorrectly Classified Instances         4                0.0985 %
+Kappa statistic                          0.8745
+Mean absolute error                      0.0021
+Root mean squared error                  0.0264
+Relative absolute error                 23.9332 %
+Root relative squared error             40.8019 %
+Total Number of Instances             4059     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.824    0.000    0.933      0.824    0.875      0.876    1.000     0.975     yes
+                 1.000    0.176    0.999      1.000    1.000      0.876    1.000     1.000     no
+Weighted Avg.    0.999    0.176    0.999      0.999    0.999      0.876    1.000     1.000     
+
+=== Confusion Matrix ===
+
+    a    b   <-- classified as
+   14    3 |    a = yes
+    1 4041 |    b = no
+
